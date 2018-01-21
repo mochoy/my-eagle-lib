@@ -3,7 +3,7 @@ Library of components, with packages, symbols, and descriptions, I use in Eagle 
 
 ### Don't click on the files! 
 
-[Click here](https://github.com/etnom/my-eagle-lib/master) 
+[Click here](https://github.com/etnom/my-eagle-lib/zipball/master) 
 to download this as a zip file.
 
 ### Installation
