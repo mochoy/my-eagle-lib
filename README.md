@@ -37,3 +37,12 @@ the location and choose `Yes` to create the directory.
 
 - Using [Adafruit's Eagle Lib](https://github.com/adafruit/Adafruit-Eagle-Library)'s parts
 
+
+### List of Components
+
+
+I'll keep this updated hopefully
+
+
+- [PSMN1R5-30YLC MOSFET](https://assets.nexperia.com/documents/data-sheet/PSMN1R5-30YLC.pdf) - SOT699 N-channel 30 V 100A 1.55mΩ logic level MOSFET
+
