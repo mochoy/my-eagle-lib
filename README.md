@@ -27,3 +27,13 @@ the location and choose `Yes` to create the directory.
 6. Find and open the `external_lbrs` folder. Unzip and drag `adafruit.lbr` into the 
    new `external_lbrs` folder.
 7. Restart Eagle. The library should be now be usable. 
+
+
+### Sources
+
+- Create packages and symbols using [this](https://electronics.stackexchange.com/questions/16030/new-eagle-library-reuse-standard-package-symbol)
+
+- SOT669 package and symbol stolen from [here](https://www.mikrocontroller.net/topic/236049)
+
+- Using [Adafruit's Eagle Lib](https://github.com/adafruit/Adafruit-Eagle-Library)'s parts
+
