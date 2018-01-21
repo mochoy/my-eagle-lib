@@ -305,6 +305,34 @@
 </symbol>
 </symbols>
 <devicesets>
+<deviceset name="FQN1N50C" prefix="Q">
+<description>&lt;b&gt;N-Channel Enhancement MOSFET&lt;/B&gt; 500V, 0.4A, 6.0 Ohm</description>
+<gates>
+<gate name="G$1" symbol="IGFET-EN-GDS" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="TO92">
+<connects>
+<connect gate="G$1" pin="D" pad="2"/>
+<connect gate="G$1" pin="G" pad="1"/>
+<connect gate="G$1" pin="S" pad="3"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="I" package="TO92-INLINE">
+<connects>
+<connect gate="G$1" pin="D" pad="1"/>
+<connect gate="G$1" pin="G" pad="2"/>
+<connect gate="G$1" pin="S" pad="3"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
 <deviceset name="PSMN1R5-30YLC">
 <description>&lt;b&gt;PSMN1R5-30YLC&lt;/b&gt;
 &lt;p&gt;N-Channel Power MOSFET&lt;/p&gt;
