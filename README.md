@@ -1,5 +1,5 @@
 # my-eagle-lib
-Library of components, with packages, symbols, and descriptions, I use in Eagle CAD. 
+Library of "custom" components, with packages, symbols, and descriptions I use in Eagle CAD. 
 
 ### Don't click on the files! 
 
