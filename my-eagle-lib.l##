@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="yes"/>
@@ -229,6 +229,10 @@
 <hole x="0" y="0" drill="2.1844"/>
 <pad name="P$1" x="0" y="0" drill="2.159"/>
 </package>
+<package name="MOUNT-HOLE-1.8MM">
+<hole x="0" y="0" drill="1.778"/>
+<pad name="P$1" x="0" y="0" drill="1.778"/>
+</package>
 </packages>
 <symbols>
 <symbol name="SRA-12VDC-CL-RELAY">
@@ -308,6 +312,33 @@
 <connect gate="G$1" pin="G" pad="4"/>
 <connect gate="G$1" pin="S" pad="1 2 3"/>
 </connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="HOLE-2.8MM">
+<description>&lt;p&gt;Mounting hole, approximately 2.8mm in diameter. I couldn't find any library which offered this size, so I made my own. &lt;/p&gt;</description>
+<gates>
+<gate name="G$1" symbol="MOUNT-PAD" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="HOLE-2.8MM">
+<connects>
+<connect gate="G$1" pin="MOUNT" pad="P$1"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="MOUNT-HOLE-1.8MM">
+<gates>
+</gates>
+<devices>
+<device name="">
 <technologies>
 <technology name=""/>
 </technologies>
