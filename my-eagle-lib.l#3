@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="10" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
+<grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="yes"/>
@@ -225,20 +225,9 @@
 <vertex x="2.89" y="0.28"/>
 </polygon>
 </package>
-<package name="2,8-PAD">
-<description>&lt;b&gt;MOUNTING PAD&lt;/b&gt; 2.8 mm, round</description>
-<wire x1="0" y1="2.921" x2="0" y2="2.667" width="0.0508" layer="21"/>
-<wire x1="0" y1="-2.667" x2="0" y2="-2.921" width="0.0508" layer="21"/>
-<wire x1="-1.778" y1="0" x2="0" y2="-1.778" width="2.286" layer="51" curve="90" cap="flat"/>
-<wire x1="0" y1="1.778" x2="1.778" y2="0" width="2.286" layer="51" curve="-90" cap="flat"/>
-<circle x="0" y="0" radius="0.635" width="0.4572" layer="51"/>
-<circle x="0" y="0" radius="2.921" width="0.1524" layer="21"/>
-<circle x="0" y="0" radius="3.175" width="0.8128" layer="39"/>
-<circle x="0" y="0" radius="3.175" width="0.8128" layer="40"/>
-<circle x="0" y="0" radius="3.175" width="0.8128" layer="43"/>
-<pad name="B2,8" x="0" y="0" drill="2.8" diameter="5.334"/>
-<dimension x1="1.5" y1="0" x2="-1.5" y2="0" x3="-1.5" y3="0" textsize="1.27" layer="21" dtype="diameter"/>
-<circle x="0" y="0" radius="1.04726875" width="0.127" layer="21"/>
+<package name="HOLE-2.8MM">
+<hole x="0" y="0" drill="2.1844"/>
+<pad name="P$1" x="0" y="0" drill="2.159"/>
 </package>
 </packages>
 <symbols>
