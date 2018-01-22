@@ -46,3 +46,8 @@ I'll keep this updated hopefully
 
 - [PSMN1R5-30YLC MOSFET](https://assets.nexperia.com/documents/data-sheet/PSMN1R5-30YLC.pdf) - SOT699 N-channel 30 V 100A 1.55mΩ logic level MOSFET
 
+
+- 1.8mm Padded mounting hole
+
+- 2.8mm Padded mounting hole
+
