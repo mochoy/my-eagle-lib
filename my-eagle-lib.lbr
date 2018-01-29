@@ -168,7 +168,7 @@
 <pad name="NO" x="0.2" y="10" drill="1.2" diameter="1.6"/>
 <pad name="NC" x="0.2" y="0" drill="1.2" diameter="1.6"/>
 <hole x="-12.5" y="5" drill="1.2"/>
-<pad name="P$1" x="-12.5" y="5" drill="1.2" diameter="1.6"/>
+<pad name="COM" x="-12.5" y="5" drill="1.2" diameter="1.6"/>
 <wire x1="2" y1="-1.5" x2="-14" y2="-1.5" width="0.127" layer="21"/>
 <wire x1="-14" y1="-1.5" x2="-14" y2="11.5" width="0.127" layer="21"/>
 <wire x1="-14" y1="11.5" x2="2" y2="11.5" width="0.127" layer="21"/>
