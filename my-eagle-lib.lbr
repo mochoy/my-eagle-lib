@@ -353,6 +353,14 @@
 </devices>
 </deviceset>
 <deviceset name="SRA-12VDC-CL-RELAY">
+<description>&lt;h1&gt;SRA-12VDC-CL Relay&lt;/h1&gt;
+
+&lt;p&gt;12V 20A Relay. Relays available with 5-24 VDC nomincal coil voltages.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+&lt;a href="http://www.datasheet4u.com/datasheet-pdf/Songle/SRA-12VDC-CL/pdf.php?id=807655"&gt;Datasheets&lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="RELAY-COIL" x="-10.16" y="0"/>
 <gate name="G$2" symbol="RELAY-SWITCH" x="10.16" y="-2.54"/>
