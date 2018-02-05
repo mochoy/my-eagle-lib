@@ -234,6 +234,10 @@
 <hole x="0" y="0" drill="1.778"/>
 <pad name="P$1" x="0" y="0" drill="1.778"/>
 </package>
+<package name="MOUNT-HOLE-2.5MM">
+<hole x="0" y="0" drill="2.54"/>
+<pad name="P$1" x="0" y="0" drill="2.54" diameter="3.81"/>
+</package>
 </packages>
 <symbols>
 <symbol name="IGFET-EN-GDS">
@@ -373,6 +377,22 @@
 <connect gate="G$2" pin="COM" pad="COM"/>
 <connect gate="G$2" pin="NC" pad="NC"/>
 <connect gate="G$2" pin="NO" pad="NO"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="MOUNT-HOLE-2.5MM">
+<description>Mount hole, 1.8mm inner diameter</description>
+<gates>
+<gate name="G$1" symbol="MOUNT-PAD" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="MOUNT-HOLE-2.5MM">
+<connects>
+<connect gate="G$1" pin="MOUNT" pad="P$1"/>
 </connects>
 <technologies>
 <technology name=""/>
