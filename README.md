@@ -33,9 +33,13 @@ the location and choose `Yes` to create the directory.
 
 - Create packages and symbols using [this](https://electronics.stackexchange.com/questions/16030/new-eagle-library-reuse-standard-package-symbol)
 
+- More help with symbols: https://www.autodesk.com/products/eagle/blog/library-basics-part-2-creating-first-symbol-autodesk-eagle/
+
 - SOT669 package and symbol stolen from [here](https://www.mikrocontroller.net/topic/236049)
 
 - Using [Adafruit's Eagle Lib](https://github.com/adafruit/Adafruit-Eagle-Library)'s parts
+
+- SOIC-8 package from [here](https://github.com/open-ephys/eagle-libraries)
 
 
 ### List of Components
@@ -46,8 +50,9 @@ I'll keep this updated hopefully
 
 - [PSMN1R5-30YLC MOSFET](https://assets.nexperia.com/documents/data-sheet/PSMN1R5-30YLC.pdf) - SOT699 N-channel 30 V 100A 1.55mΩ logic level MOSFET
 
-
 - 1.8mm Padded mounting hole
 
 - 2.8mm Padded mounting hole
+
+- [MIC4606](http://ww1.microchip.com/downloads/en/DeviceDoc/20005852A.pdf) - Half-bridge MOSFET driver, TTL input, wide operating voltages
 
