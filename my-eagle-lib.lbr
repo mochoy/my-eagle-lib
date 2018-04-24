@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="yes"/>
@@ -434,6 +434,48 @@
 <device name="" package="MOUNT-HOLE-2.5MM">
 <connects>
 <connect gate="G$1" pin="MOUNT" pad="P$1"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="MIC4606">
+<description>&lt;h3&gt;MIC4606 Half Bridge Driver&lt;/h3&gt;
+
+&lt;p&gt;Robust ttl Half bridge MOSFET driver. &lt;/p&gt;
+
+Features
+&lt;li&gt;- 5.5V to 16V Gate Drive Supply Voltage Range&lt;/li&gt;
+&lt;li&gt;- Drives High-Side and Low-Side N-Channel MOSFETs with Independent Inputs&lt;/li&gt;
+&lt;li&gt;- TTL Input Thresholds&lt;/li&gt;
+&lt;li&gt;- On-Chip Bootstrap Diode&lt;/li&gt;
+&lt;li&gt;- Fast 39 ns Propagation Times&lt;/li&gt;
+&lt;li&gt;- Drives 1000 pF Load with 20 ns Rise and Fall Times&lt;/li&gt;
+&lt;li&gt;- Low Power Consumption&lt;/li&gt;
+&lt;li&gt;- Supplies Undervoltage Protection&lt;/li&gt;
+&lt;li&gt;- –40°C to +125°C Junction Temperature Range&lt;/li&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://ww1.microchip.com/downloads/en/DeviceDoc/20005852A.pdf"&gt;Datasheets&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/open-ephys/eagle-libraries"&gt;Package from here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.digikey.com/en/product-highlight/m/micrel/mic4604-mosfet-drivers"&gt;DigiKey Buy Link&lt;/a&gt;&lt;/p&gt;</description>
+<gates>
+<gate name="G$1" symbol="MIC4604" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="SOIC-8">
+<connects>
+<connect gate="G$1" pin="HB" pad="2"/>
+<connect gate="G$1" pin="HI" pad="5"/>
+<connect gate="G$1" pin="HO" pad="3"/>
+<connect gate="G$1" pin="HS" pad="4"/>
+<connect gate="G$1" pin="LI" pad="6"/>
+<connect gate="G$1" pin="LO" pad="8"/>
+<connect gate="G$1" pin="VDD" pad="1"/>
+<connect gate="G$1" pin="VSS" pad="7"/>
 </connects>
 <technologies>
 <technology name=""/>
