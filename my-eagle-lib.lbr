@@ -541,6 +541,11 @@ Features
 </gates>
 <devices>
 <device name="" package="LFPAK-EXTENDED-LEGS">
+<connects>
+<connect gate="G$1" pin="D" pad="5"/>
+<connect gate="G$1" pin="G" pad="4"/>
+<connect gate="G$1" pin="S" pad="1 2 3"/>
+</connects>
 <technologies>
 <technology name=""/>
 </technologies>
