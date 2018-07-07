@@ -540,7 +540,7 @@ Features
 <gate name="G$1" symbol="IGFET-EN-GDS" x="0" y="0"/>
 </gates>
 <devices>
-<device name="">
+<device name="" package="LFPAK-EXTENDED-LEGS">
 <technologies>
 <technology name=""/>
 </technologies>
