@@ -266,9 +266,9 @@
 <package name="LFPAK-EXTENDED-LEGS">
 <description>TO,1.27mm pitch;4 pin,6.00mm L X 3.95mm W X 1.20mm H body ( SOT669 )</description>
 <wire x1="-4.639" y1="-2.75" x2="-4.639" y2="2.75" width="0.05" layer="39"/>
-<wire x1="-4.639" y1="2.75" x2="3.75" y2="2.75" width="0.05" layer="39"/>
-<wire x1="3.75" y1="2.75" x2="3.75" y2="-2.75" width="0.05" layer="39"/>
-<wire x1="3.75" y1="-2.75" x2="-4.639" y2="-2.75" width="0.05" layer="39"/>
+<wire x1="-4.639" y1="2.75" x2="4.258" y2="2.75" width="0.05" layer="39"/>
+<wire x1="4.258" y1="2.75" x2="4.258" y2="-2.75" width="0.05" layer="39"/>
+<wire x1="4.258" y1="-2.75" x2="-4.639" y2="-2.75" width="0.05" layer="39"/>
 <wire x1="0" y1="0.5" x2="0" y2="-0.5" width="0.05" layer="39"/>
 <wire x1="-0.5" y1="0" x2="0.5" y2="0" width="0.05" layer="39"/>
 <wire x1="-1.75" y1="-2.45" x2="-1.75" y2="2.45" width="0.1" layer="51"/>
