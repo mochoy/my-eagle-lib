@@ -48,11 +48,17 @@ the location and choose `Yes` to create the directory.
 I'll keep this updated hopefully
 
 
-- [PSMN1R5-30YLC MOSFET](https://assets.nexperia.com/documents/data-sheet/PSMN1R5-30YLC.pdf) - SOT699 N-channel 30 V 100A 1.55mΩ logic level MOSFET
+- [PSMN1R5-30YLC MOSFET](https://assets.nexperia.com/documents/data-sheet/PSMN1R5-30YLC.pdf) - LFPAK/SO8 N-channel 30 V 100A 1.55mΩ logic level MOSFET
 
 - 1.8mm Padded mounting hole
 
 - 2.8mm Padded mounting hole
 
 - [MIC4606](http://ww1.microchip.com/downloads/en/DeviceDoc/20005852A.pdf) - Half-bridge MOSFET driver, TTL input, wide operating voltages
+
+
+### List of Packages Different from List of Components
+
+
+- LFPAK/SO8 Extended: larger base pad and leg pads for easier soldering
 
