@@ -568,6 +568,12 @@ Features
 </devices>
 </deviceset>
 <deviceset name="FDB0105N407L">
+<description>&lt;h1&gt;FDB0105N407L&lt;/h1&gt;
+&lt;h2&gt;N-Channel PowerTrench MOSFET&lt;/h2&gt;
+&lt;h3&gt;40V, 460A, 08mΩ&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://www.mouser.com/datasheet/2/308/FDB0105N407L-1122478.pdf"&gt;Datasheet&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.mouser.com/ProductDetail/?qs=cmykpc0%252bXL4pGD5cvlZP9g%3D%3D"&gt;Mouser Buy Link&lt;/a&gt;&lt;/p&gt;</description>
 <gates>
 <gate name="G$1" symbol="IGFET-EN-GDS" x="0" y="0"/>
 </gates>
