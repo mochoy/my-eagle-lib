@@ -41,6 +41,8 @@ the location and choose `Yes` to create the directory.
 
 - SOIC-8 package from [here](https://github.com/open-ephys/eagle-libraries)
 
+- Pin symbols from Rembrandt Electronics's JST connector library [here](https://www.rembrandtelectronics.com/product/eagle-libraries/) and [here](https://www.diymodules.org/eagle-show-library?type=usr&id=1012211612&part=Rembrandt+Electronics+-+JST+XH+Connectors+v1-0.lbr)
+
 
 ### List of Components
 
