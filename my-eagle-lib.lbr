@@ -346,6 +346,8 @@
 <wire x1="-7.62" y1="-7.62" x2="-7.62" y2="-15.24" width="0.127" layer="21"/>
 <wire x1="-7.62" y1="-15.24" x2="7.62" y2="-15.24" width="0.127" layer="21"/>
 <wire x1="7.62" y1="-15.24" x2="7.62" y2="-7.62" width="0.127" layer="21"/>
+<text x="-3.556" y="-10.16" size="1.27" layer="25">&gt;NAME</text>
+<text x="-3.556" y="-12.446" size="1.27" layer="27">&gt;VALUE</text>
 </package>
 </packages>
 <symbols>
