@@ -680,6 +680,19 @@ Features
 </device>
 </devices>
 </deviceset>
+<deviceset name="XT60-PW-F">
+<gates>
+<gate name="G$1" symbol="MV" x="0" y="0"/>
+<gate name="G$2" symbol="M" x="0" y="-2.54"/>
+</gates>
+<devices>
+<device name="" package="XT60-PW-F">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
 </devicesets>
 </library>
 </drawing>
