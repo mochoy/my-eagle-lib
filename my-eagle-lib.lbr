@@ -687,6 +687,10 @@ Features
 </gates>
 <devices>
 <device name="" package="XT60-PW-F">
+<connects>
+<connect gate="G$1" pin="S" pad="P$2"/>
+<connect gate="G$2" pin="S" pad="P$1"/>
+</connects>
 <technologies>
 <technology name=""/>
 </technologies>
