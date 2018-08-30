@@ -477,7 +477,10 @@
 <pin name="S" x="-2.54" y="0" visible="off" length="short" direction="pas"/>
 </symbol>
 <symbol name="2-PIN-SYMBOL">
-<text x="-2.54" y="5.08" size="1.778" layer="94">&gt;NAME</text>
+<pin name="P$1" x="-2.54" y="2.54" length="middle"/>
+<pin name="P$2" x="-2.54" y="-2.54" length="middle"/>
+<text x="-2.54" y="7.62" size="1.778" layer="125">&gt;NAME</text>
+<text x="-2.54" y="-10.16" size="1.778" layer="127">&gt;VALUE</text>
 </symbol>
 </symbols>
 <devicesets>
