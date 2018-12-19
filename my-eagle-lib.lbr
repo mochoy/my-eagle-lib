@@ -397,6 +397,9 @@
 <smd name="P$3" x="1.27" y="-7.5" dx="0.8" dy="5" layer="1"/>
 <smd name="P$4" x="2.54" y="-7.5" dx="0.8" dy="5" layer="1"/>
 <smd name="P$5" x="3.81" y="-7.5" dx="0.8" dy="5" layer="1"/>
+<smd name="P$6" x="-1.27" y="-7.5" dx="0.8" dy="5" layer="1"/>
+<smd name="P$7" x="-2.54" y="-7.5" dx="0.8" dy="5" layer="1"/>
+<smd name="P$8" x="-3.81" y="-7.5" dx="0.8" dy="5" layer="1"/>
 </package>
 </packages>
 <symbols>
