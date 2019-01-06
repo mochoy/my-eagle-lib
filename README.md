@@ -58,6 +58,8 @@ I'll keep this updated hopefully
 
 - [MIC4606](http://ww1.microchip.com/downloads/en/DeviceDoc/20005852A.pdf) - Half-bridge MOSFET driver, TTL input, wide operating voltages
 
+- [SRA-12VDC-CL Relay](https://datasheet.lcsc.com/szlcsc/Ningbo-Songle-Relay-SRA-12VDC-CL_C60169.pdf) - 3V, 5V, 6V, 9V, 12V, 18V, 24V 20A relay 
+
 
 ### List of Packages Different from List of Components
 
