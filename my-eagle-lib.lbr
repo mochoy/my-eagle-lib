@@ -156,24 +156,6 @@
 </layers>
 <library>
 <packages>
-<package name="SRA-12VDC-CL-RELAY(1)">
-<text x="-9" y="13" size="1.27" layer="25">&gt;NAME</text>
-<text x="-9" y="-4" size="1.27" layer="25">&gt;VALUE</text>
-<hole x="-10" y="0" drill="0.8"/>
-<hole x="-10" y="10" drill="0.8"/>
-<pad name="COIL2" x="-10" y="0" drill="0.8" diameter="1.2"/>
-<pad name="COIL1" x="-10" y="10" drill="0.8" diameter="1.2"/>
-<hole x="0.2" y="0" drill="1.2"/>
-<hole x="0.2" y="10" drill="1.2"/>
-<pad name="NO" x="0.2" y="10" drill="1.2" diameter="1.6"/>
-<pad name="NC" x="0.2" y="0" drill="1.2" diameter="1.6"/>
-<hole x="-12.5" y="5" drill="1.2"/>
-<pad name="COM" x="-12.5" y="5" drill="1.2" diameter="1.6"/>
-<wire x1="2" y1="-1.5" x2="-14" y2="-1.5" width="0.127" layer="21"/>
-<wire x1="-14" y1="-1.5" x2="-14" y2="11.5" width="0.127" layer="21"/>
-<wire x1="-14" y1="11.5" x2="2" y2="11.5" width="0.127" layer="21"/>
-<wire x1="2" y1="11.5" x2="2" y2="-1.5" width="0.127" layer="21"/>
-</package>
 <package name="TO127P600X120-5N">
 <description>TO,1.27mm pitch;4 pin,6.00mm L X 3.95mm W X 1.20mm H body ( SOT669 )</description>
 <wire x1="-3.75" y1="-2.75" x2="-3.75" y2="2.75" width="0.05" layer="39"/>
