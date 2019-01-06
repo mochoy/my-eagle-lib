@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="1" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="mm" altunit="mm"/>
+<grid distance="1" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.5" altunitdist="mm" altunit="mm"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="yes" active="yes"/>
@@ -156,7 +156,7 @@
 </layers>
 <library>
 <packages>
-<package name="SRA-12VDC-CL-RELAY">
+<package name="SRA-12VDC-CL-RELAY(1)">
 <text x="-9" y="13" size="1.27" layer="25">&gt;NAME</text>
 <text x="-9" y="-4" size="1.27" layer="25">&gt;VALUE</text>
 <hole x="-10" y="0" drill="0.8"/>
@@ -405,6 +405,8 @@
 <wire x1="5" y1="0" x2="-5" y2="0" width="0.127" layer="51"/>
 <wire x1="-5" y1="0" x2="-5" y2="10.25" width="0.127" layer="51"/>
 </package>
+<package name="SRA-12VDC-CL-RELAY">
+</package>
 </packages>
 <symbols>
 <symbol name="IGFET-EN-GDS">
@@ -570,7 +572,7 @@
 <gate name="G$2" symbol="RELAY-SWITCH" x="10.16" y="-2.54"/>
 </gates>
 <devices>
-<device name="" package="SRA-12VDC-CL-RELAY">
+<device name="" package="SRA-12VDC-CL-RELAY(1)">
 <connects>
 <connect gate="G$1" pin="COIL1" pad="COIL1"/>
 <connect gate="G$1" pin="COIL2" pad="COIL2"/>
