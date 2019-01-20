@@ -3,7 +3,7 @@ Library of "custom" components, with packages, symbols, and descriptions I use i
 
 ### Don't click on the files! 
 
-[Click here](https://github.com/etnom/my-eagle-lib/zipball/master) 
+[Click here](https://github.com/mochoy/my-eagle-lib/zipball/master) 
 to download this as a zip file.
 
 ### Installation
