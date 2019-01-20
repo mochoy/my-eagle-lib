@@ -550,6 +550,10 @@
 <pin name="COIL_1" x="-5.08" y="5.08" visible="pad" length="short" direction="pas" rot="R270"/>
 <text x="-22.86" y="0" size="1.778" layer="95">&gt;NAME</text>
 <text x="-22.86" y="-2.54" size="1.778" layer="95">&gt;VALUE</text>
+<wire x1="-10.16" y1="7.62" x2="-10.16" y2="-7.62" width="0.254" layer="94"/>
+<wire x1="-10.16" y1="-7.62" x2="15.24" y2="-7.62" width="0.254" layer="94"/>
+<wire x1="15.24" y1="-7.62" x2="15.24" y2="7.62" width="0.254" layer="94"/>
+<wire x1="15.24" y1="7.62" x2="-10.16" y2="7.62" width="0.254" layer="94"/>
 </symbol>
 </symbols>
 <devicesets>
