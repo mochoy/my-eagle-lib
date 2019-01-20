@@ -46,7 +46,7 @@ I'll hopefully keep this updated
 
 - 1.3mm Padded mounting hole (Sat, 01/05/19) - Used for relay legs
 
-- [SRA-12VDC-CL Relay with oval pads](https://datasheet.lcsc.com/szlcsc/Ningbo-Songle-Relay-SRA-12VDC-CL_C60169.pdf) (Sun, 01/10/19) - 3V, 5V, 6V, 9V, 12V, 18V, 24V 20A relay 
+- [SRA-12VDC-CL Relay](https://datasheet.lcsc.com/szlcsc/Ningbo-Songle-Relay-SRA-12VDC-CL_C60169.pdf) with oval pads (Sun, 01/10/19) - 3V, 5V, 6V, 9V, 12V, 18V, 24V 20A relay 
 
 
 ### Sources
