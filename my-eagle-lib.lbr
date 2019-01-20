@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="10" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
+<grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="yes" active="yes"/>
@@ -412,6 +412,28 @@
 <package name="MOUNT-HOLE-1.5MM">
 <hole x="0" y="0" drill="1"/>
 <pad name="P$1" x="0" y="0" drill="1"/>
+</package>
+<package name="SRA-12VDC-CL_RELAY_OVAL_PADS">
+<wire x1="8" y1="6.2" x2="8" y2="-6.2" width="0.127" layer="51"/>
+<wire x1="8" y1="-6.2" x2="-8" y2="-6.2" width="0.127" layer="51"/>
+<wire x1="-8" y1="-6.2" x2="-8" y2="6.2" width="0.127" layer="51"/>
+<wire x1="-8" y1="6.2" x2="8" y2="6.2" width="0.127" layer="51"/>
+<hole x="-6.1" y="-5" drill="1.3"/>
+<pad name="NO" x="-6.1" y="-5" drill="1.3"/>
+<hole x="-6.1" y="5" drill="1.3"/>
+<pad name="NC" x="-6.1" y="5" drill="1.3"/>
+<hole x="4.1" y="5" drill="1.3"/>
+<pad name="COIL_1" x="4.1" y="5" drill="1.3"/>
+<hole x="4.1" y="-5" drill="1.3"/>
+<pad name="COIL_2" x="4.1" y="-5" drill="1.3"/>
+<hole x="6.6" y="0" drill="1.3"/>
+<pad name="COM" x="6.6" y="0" drill="1.3"/>
+<wire x1="-8" y1="6.2" x2="8" y2="6.2" width="0.127" layer="21"/>
+<wire x1="8" y1="6.2" x2="8" y2="-6.2" width="0.127" layer="21"/>
+<wire x1="8" y1="-6.2" x2="-8" y2="-6.2" width="0.127" layer="21"/>
+<wire x1="-8" y1="-6.2" x2="-8" y2="6.2" width="0.127" layer="21"/>
+<text x="-3" y="7" size="1.27" layer="25">&gt;NAME</text>
+<text x="-3" y="-8" size="1.27" layer="27">&gt;VALUE</text>
 </package>
 </packages>
 <symbols>
