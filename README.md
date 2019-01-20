@@ -21,7 +21,7 @@ to download this as a zip file.
 the location and choose `Yes` to create the directory.
 
     > On OS X, `$HOME/external_lbrs` changes to: /Users/mosfet/external_lbrs/
-    
+   
     > On Windows, `$HOME\external_lbrs` changes to: C:\Users\Mosfet\Documents\external_lbrs
 
 6. Find and open the `external_lbrs` folder. Unzip and drag `adafruit.lbr` into the 
@@ -53,7 +53,7 @@ I'll hopefully keep this updated
 
 - Create packages and symbols using [this](https://electronics.stackexchange.com/questions/16030/new-eagle-library-reuse-standard-package-symbol)
 
-- More help with symbols: https://www.autodesk.com/products/eagle/blog/library-basics-part-2-creating-first-symbol-autodesk-eagle/
+- More help with symbols [here](https://www.autodesk.com/products/eagle/blog/library-basics-part-2-creating-first-symbol-autodesk-eagle/)
 
 - SOT669 package and symbol stolen from [here](https://www.mikrocontroller.net/topic/236049)
 
