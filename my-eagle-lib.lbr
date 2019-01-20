@@ -756,9 +756,17 @@ Features
 </deviceset>
 <deviceset name="SRA-XVDC-XL_RELAY_OVAL_PADS">
 <gates>
+<gate name="G$1" symbol="RELAY" x="0" y="0"/>
 </gates>
 <devices>
-<device name="">
+<device name="" package="SRA-12VDC-CL_RELAY_OVAL_PADS">
+<connects>
+<connect gate="G$1" pin="COIL_1" pad="COIL_1"/>
+<connect gate="G$1" pin="COIL_2" pad="COIL_2"/>
+<connect gate="G$1" pin="COM" pad="COM"/>
+<connect gate="G$1" pin="NC" pad="NC"/>
+<connect gate="G$1" pin="NO" pad="NO"/>
+</connects>
 <technologies>
 <technology name=""/>
 </technologies>
