@@ -50,6 +50,8 @@ I'll hopefully keep this updated
 
 - 2-pin JST-XH connector with oval pads (Sat, 04/06/19)
 
+- 2-pin JST-XH connector with circle pads (Sat, 04/06/19)
+
 
 ### Sources
 
