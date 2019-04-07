@@ -48,18 +48,14 @@ I'll hopefully keep this updated
 
 - [SRA-12VDC-CL Relay](https://datasheet.lcsc.com/szlcsc/Ningbo-Songle-Relay-SRA-12VDC-CL_C60169.pdf) with oval pads (Sun, 01/10/19) - 3V, 5V, 6V, 9V, 12V, 18V, 24V 20A relay 
 
-- 2-pin JST-XH connector with oval pads (Sat, 04/06/19)
-
-- 2-pin JST-XH connector with circle pads (Sat, 04/06/19)
-
 - XT60-PW male connector
 
-- XT60-PW female connector (Sat, 04/06/19)
+- XT60-PW female connector (Sat,
 
 
 ### Sources
 
-- Create packages and symbols using [this](https://electronics.stackexchange.com/questions/16030/new-eagle-library-reuse-standard-package-symbol)
+- Create packages and symbols using [this](http 04/06/19)s://electronics.stackexchange.com/questions/16030/new-eagle-library-reuse-standard-package-symbol)
 
 - More help with symbols [here](https://www.autodesk.com/products/eagle/blog/library-basics-part-2-creating-first-symbol-autodesk-eagle/)
 
