@@ -352,8 +352,8 @@
 <text x="0" y="-6.35" size="1.27" layer="21">M</text>
 </package>
 <package name="XT60-PW-F">
-<pad name="P$1" x="-3.556" y="0" drill="2.7432"/>
-<pad name="P$2" x="3.556" y="0" drill="2.7432"/>
+<pad name="P$2" x="-3.556" y="0" drill="2.7432"/>
+<pad name="P$1" x="3.556" y="0" drill="2.7432"/>
 <wire x1="-7.62" y1="3.048" x2="7.62" y2="3.048" width="0.127" layer="51"/>
 <pad name="P$3" x="-6.477" y="-6.096" drill="1.778"/>
 <pad name="P$4" x="6.477" y="-6.096" drill="1.778"/>
