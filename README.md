@@ -52,6 +52,10 @@ I'll hopefully keep this updated
 
 - 2-pin JST-XH connector with circle pads (Sat, 04/06/19)
 
+- XT60-PW male connector
+
+- XT60-PW female connector (Sat, 04/06/19)
+
 
 ### Sources
 
