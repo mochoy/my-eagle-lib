@@ -50,7 +50,9 @@ I'll hopefully keep this updated
 
 - XT60-PW male connector
 
-- XT60-PW female connector (Sat,
+- XT60-PW female connector
+
+- [BTN8982TA](https://static6.arrow.com/aropdfconversion/e0e03f0407d2fe3b1d7e79e076707c2d910a3b0e/btn8982ta-data-sheet-rev10-infineon.pdf) (Sun, 04/28/19) - Half bridge motor driver
 
 
 ### Sources
