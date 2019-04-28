@@ -372,20 +372,6 @@
 <text x="-3.81" y="-3.81" size="1.27" layer="25">-</text>
 <text x="0" y="-6.35" size="1.27" layer="21">F</text>
 </package>
-<package name="TO-263-8">
-<smd name="P$1" x="0" y="2" dx="8.5" dy="8.5" layer="1" rot="R180"/>
-<smd name="P$2" x="0" y="-7.5" dx="0.8" dy="5" layer="1"/>
-<smd name="P$3" x="1.27" y="-7.5" dx="0.8" dy="5" layer="1"/>
-<smd name="P$4" x="2.54" y="-7.5" dx="0.8" dy="5" layer="1"/>
-<smd name="P$5" x="3.81" y="-7.5" dx="0.8" dy="5" layer="1"/>
-<smd name="P$6" x="-1.27" y="-7.5" dx="0.8" dy="5" layer="1"/>
-<smd name="P$7" x="-2.54" y="-7.5" dx="0.8" dy="5" layer="1"/>
-<smd name="P$8" x="-3.81" y="-7.5" dx="0.8" dy="5" layer="1"/>
-<wire x1="-5" y1="10.25" x2="5" y2="10.25" width="0.127" layer="51"/>
-<wire x1="5" y1="10.25" x2="5" y2="0" width="0.127" layer="51"/>
-<wire x1="5" y1="0" x2="-5" y2="0" width="0.127" layer="51"/>
-<wire x1="-5" y1="0" x2="-5" y2="10.25" width="0.127" layer="51"/>
-</package>
 <package name="SRA-12VDC-CL-RELAY">
 <wire x1="8" y1="6.2" x2="8" y2="-6.2" width="0.127" layer="51"/>
 <wire x1="8" y1="-6.2" x2="-8" y2="-6.2" width="0.127" layer="51"/>
