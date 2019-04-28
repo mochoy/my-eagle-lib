@@ -811,9 +811,19 @@ Features
 </deviceset>
 <deviceset name="BTN8982TA">
 <gates>
+<gate name="G$1" symbol="BTN8982TA" x="0" y="0"/>
 </gates>
 <devices>
-<device name="">
+<device name="" package="TO-263-8">
+<connects>
+<connect gate="G$1" pin="GND" pad="1"/>
+<connect gate="G$1" pin="IN" pad="2"/>
+<connect gate="G$1" pin="INH" pad="3"/>
+<connect gate="G$1" pin="IS" pad="6"/>
+<connect gate="G$1" pin="OUT" pad="4 8"/>
+<connect gate="G$1" pin="SR" pad="5"/>
+<connect gate="G$1" pin="VCC" pad="7"/>
+</connects>
 <technologies>
 <technology name=""/>
 </technologies>
