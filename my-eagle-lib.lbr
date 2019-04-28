@@ -555,14 +555,13 @@
 <wire x1="15.24" y1="7.62" x2="-10.16" y2="7.62" width="0.254" layer="94"/>
 </symbol>
 <symbol name="BTN8982TA">
-<pin name="P$1" x="-15.24" y="7.62" length="middle"/>
-<pin name="P$2" x="0" y="20.32" length="middle" rot="R270"/>
-<pin name="P$3" x="-15.24" y="2.54" length="middle"/>
-<pin name="P$4" x="-15.24" y="-2.54" length="middle"/>
-<pin name="P$5" x="-15.24" y="-7.62" length="middle"/>
-<pin name="P$6" x="15.24" y="5.08" length="middle" rot="R180"/>
-<pin name="P$7" x="15.24" y="-5.08" length="middle" rot="R180"/>
-<pin name="P$8" x="0" y="-20.32" length="middle" rot="R90"/>
+<pin name="INH" x="-15.24" y="7.62" length="middle"/>
+<pin name="VCC" x="0" y="20.32" length="middle" rot="R270"/>
+<pin name="IN" x="-15.24" y="2.54" length="middle"/>
+<pin name="SR" x="-15.24" y="-2.54" length="middle"/>
+<pin name="IS" x="-15.24" y="-7.62" length="middle"/>
+<pin name="OUT" x="15.24" y="0" length="middle" rot="R180"/>
+<pin name="GND" x="0" y="-20.32" length="middle" rot="R90"/>
 <wire x1="-12.7" y1="17.78" x2="-12.7" y2="-17.78" width="0.254" layer="94"/>
 <wire x1="-12.7" y1="-17.78" x2="12.7" y2="-17.78" width="0.254" layer="94"/>
 <wire x1="12.7" y1="-17.78" x2="12.7" y2="17.78" width="0.254" layer="94"/>
