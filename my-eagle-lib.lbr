@@ -571,6 +571,8 @@
 <text x="0" y="10.16" size="1.778" layer="95" align="top-center">&gt;NAME</text>
 <text x="0" y="5.08" size="1.778" layer="96" align="top-center">&gt;VALUE</text>
 </symbol>
+<symbol name="ARDUINO_UNO">
+</symbol>
 </symbols>
 <devicesets>
 <deviceset name="PSMN1R5-30YLC">
