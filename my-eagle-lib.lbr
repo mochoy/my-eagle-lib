@@ -572,6 +572,15 @@
 <text x="0" y="5.08" size="1.778" layer="96" align="top-center">&gt;VALUE</text>
 </symbol>
 <symbol name="ARDUINO_UNO">
+<pin name="VIN" x="0" y="17.78" length="middle" rot="R270"/>
+<pin name="A0" x="-12.7" y="-10.16" length="middle"/>
+<pin name="A1" x="-12.7" y="-15.24" length="middle"/>
+<pin name="A2" x="-12.7" y="-20.32" length="middle"/>
+<pin name="A3" x="-12.7" y="-25.4" length="middle"/>
+<pin name="A4" x="-12.7" y="-30.48" length="middle"/>
+<pin name="A5" x="-12.7" y="-35.56" length="middle"/>
+<pin name="A6" x="-12.7" y="-40.64" length="middle"/>
+<pin name="A7" x="-12.7" y="-45.72" length="middle"/>
 </symbol>
 </symbols>
 <devicesets>
