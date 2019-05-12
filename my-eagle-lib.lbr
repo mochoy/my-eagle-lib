@@ -436,6 +436,40 @@
 <smd name="4" x="-0.0154" y="-4.5" dx="0.8" dy="5" layer="1"/>
 </package>
 <package name="ARDUINO_NANO">
+<pad name="P$9" x="-7.62" y="16.51" drill="1.016"/>
+<pad name="P$1" x="-7.62" y="13.97" drill="1.016"/>
+<pad name="P$2" x="-7.62" y="11.43" drill="1.016"/>
+<pad name="P$3" x="-7.62" y="8.89" drill="1.016"/>
+<pad name="P$4" x="-7.62" y="6.35" drill="1.016"/>
+<pad name="P$5" x="-7.62" y="3.81" drill="1.016"/>
+<pad name="P$6" x="-7.62" y="1.27" drill="1.016"/>
+<pad name="P$7" x="-7.62" y="-1.27" drill="1.016"/>
+<pad name="P$8" x="-7.62" y="-3.81" drill="1.016"/>
+<pad name="P$10" x="-7.62" y="-6.35" drill="1.016"/>
+<pad name="P$11" x="-7.62" y="-8.89" drill="1.016"/>
+<pad name="P$12" x="-7.62" y="-11.43" drill="1.016"/>
+<pad name="P$13" x="-7.62" y="-13.97" drill="1.016"/>
+<pad name="P$14" x="-7.62" y="-16.51" drill="1.016"/>
+<pad name="P$29" x="7.62" y="16.51" drill="1.016"/>
+<pad name="P$30" x="7.62" y="13.97" drill="1.016"/>
+<pad name="P$31" x="7.62" y="11.43" drill="1.016"/>
+<pad name="P$32" x="7.62" y="8.89" drill="1.016"/>
+<pad name="P$33" x="7.62" y="6.35" drill="1.016"/>
+<pad name="P$34" x="7.62" y="3.81" drill="1.016"/>
+<pad name="P$35" x="7.62" y="1.27" drill="1.016"/>
+<pad name="P$36" x="7.62" y="-1.27" drill="1.016"/>
+<pad name="P$37" x="7.62" y="-3.81" drill="1.016"/>
+<pad name="P$38" x="7.62" y="-6.35" drill="1.016"/>
+<pad name="P$39" x="7.62" y="-8.89" drill="1.016"/>
+<pad name="P$40" x="7.62" y="-11.43" drill="1.016"/>
+<pad name="P$41" x="7.62" y="-13.97" drill="1.016"/>
+<pad name="P$42" x="7.62" y="-16.51" drill="1.016"/>
+<pad name="P$15" x="-2.54" y="-16.51" drill="1.016" rot="R90"/>
+<pad name="P$16" x="0" y="-16.51" drill="1.016" rot="R90"/>
+<pad name="P$17" x="2.54" y="-16.51" drill="1.016" rot="R90"/>
+<pad name="P$18" x="-2.54" y="-19.05" drill="1.016" rot="R90"/>
+<pad name="P$19" x="0" y="-19.05" drill="1.016" rot="R90"/>
+<pad name="P$20" x="2.54" y="-19.05" drill="1.016" rot="R90"/>
 </package>
 </packages>
 <symbols>
