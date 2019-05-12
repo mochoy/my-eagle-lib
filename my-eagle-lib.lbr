@@ -436,40 +436,58 @@
 <smd name="4" x="-0.0154" y="-4.5" dx="0.8" dy="5" layer="1"/>
 </package>
 <package name="ARDUINO_NANO">
-<pad name="P$9" x="-7.62" y="16.51" drill="1.016"/>
-<pad name="P$1" x="-7.62" y="13.97" drill="1.016"/>
-<pad name="P$2" x="-7.62" y="11.43" drill="1.016"/>
-<pad name="P$3" x="-7.62" y="8.89" drill="1.016"/>
-<pad name="P$4" x="-7.62" y="6.35" drill="1.016"/>
-<pad name="P$5" x="-7.62" y="3.81" drill="1.016"/>
-<pad name="P$6" x="-7.62" y="1.27" drill="1.016"/>
-<pad name="P$7" x="-7.62" y="-1.27" drill="1.016"/>
-<pad name="P$8" x="-7.62" y="-3.81" drill="1.016"/>
-<pad name="P$10" x="-7.62" y="-6.35" drill="1.016"/>
-<pad name="P$11" x="-7.62" y="-8.89" drill="1.016"/>
-<pad name="P$12" x="-7.62" y="-11.43" drill="1.016"/>
-<pad name="P$13" x="-7.62" y="-13.97" drill="1.016"/>
-<pad name="P$14" x="-7.62" y="-16.51" drill="1.016"/>
-<pad name="P$29" x="7.62" y="16.51" drill="1.016"/>
-<pad name="P$30" x="7.62" y="13.97" drill="1.016"/>
-<pad name="P$31" x="7.62" y="11.43" drill="1.016"/>
-<pad name="P$32" x="7.62" y="8.89" drill="1.016"/>
-<pad name="P$33" x="7.62" y="6.35" drill="1.016"/>
-<pad name="P$34" x="7.62" y="3.81" drill="1.016"/>
-<pad name="P$35" x="7.62" y="1.27" drill="1.016"/>
-<pad name="P$36" x="7.62" y="-1.27" drill="1.016"/>
-<pad name="P$37" x="7.62" y="-3.81" drill="1.016"/>
-<pad name="P$38" x="7.62" y="-6.35" drill="1.016"/>
-<pad name="P$39" x="7.62" y="-8.89" drill="1.016"/>
-<pad name="P$40" x="7.62" y="-11.43" drill="1.016"/>
-<pad name="P$41" x="7.62" y="-13.97" drill="1.016"/>
-<pad name="P$42" x="7.62" y="-16.51" drill="1.016"/>
-<pad name="P$15" x="-2.54" y="-16.51" drill="1.016" rot="R90"/>
-<pad name="P$16" x="0" y="-16.51" drill="1.016" rot="R90"/>
-<pad name="P$17" x="2.54" y="-16.51" drill="1.016" rot="R90"/>
-<pad name="P$18" x="-2.54" y="-19.05" drill="1.016" rot="R90"/>
-<pad name="P$19" x="0" y="-19.05" drill="1.016" rot="R90"/>
-<pad name="P$20" x="2.54" y="-19.05" drill="1.016" rot="R90"/>
+<pad name="P$9" x="7.62" y="-16.51" drill="1.016" rot="R180"/>
+<pad name="P$1" x="7.62" y="-13.97" drill="1.016" rot="R180"/>
+<pad name="P$2" x="7.62" y="-11.43" drill="1.016" rot="R180"/>
+<pad name="P$3" x="7.62" y="-8.89" drill="1.016" rot="R180"/>
+<pad name="P$4" x="7.62" y="-6.35" drill="1.016" rot="R180"/>
+<pad name="P$5" x="7.62" y="-3.81" drill="1.016" rot="R180"/>
+<pad name="P$6" x="7.62" y="-1.27" drill="1.016" rot="R180"/>
+<pad name="P$7" x="7.62" y="1.27" drill="1.016" rot="R180"/>
+<pad name="P$8" x="7.62" y="3.81" drill="1.016" rot="R180"/>
+<pad name="P$10" x="7.62" y="6.35" drill="1.016" rot="R180"/>
+<pad name="P$11" x="7.62" y="8.89" drill="1.016" rot="R180"/>
+<pad name="P$12" x="7.62" y="11.43" drill="1.016" rot="R180"/>
+<pad name="P$13" x="7.62" y="13.97" drill="1.016" rot="R180"/>
+<pad name="P$14" x="7.62" y="16.51" drill="1.016" rot="R180"/>
+<pad name="P$29" x="-7.62" y="-16.51" drill="1.016" rot="R180"/>
+<pad name="P$30" x="-7.62" y="-13.97" drill="1.016" rot="R180"/>
+<pad name="P$31" x="-7.62" y="-11.43" drill="1.016" rot="R180"/>
+<pad name="P$32" x="-7.62" y="-8.89" drill="1.016" rot="R180"/>
+<pad name="P$33" x="-7.62" y="-6.35" drill="1.016" rot="R180"/>
+<pad name="P$34" x="-7.62" y="-3.81" drill="1.016" rot="R180"/>
+<pad name="P$35" x="-7.62" y="-1.27" drill="1.016" rot="R180"/>
+<pad name="P$36" x="-7.62" y="1.27" drill="1.016" rot="R180"/>
+<pad name="P$37" x="-7.62" y="3.81" drill="1.016" rot="R180"/>
+<pad name="P$38" x="-7.62" y="6.35" drill="1.016" rot="R180"/>
+<pad name="P$39" x="-7.62" y="8.89" drill="1.016" rot="R180"/>
+<pad name="P$40" x="-7.62" y="11.43" drill="1.016" rot="R180"/>
+<pad name="P$41" x="-7.62" y="13.97" drill="1.016" rot="R180"/>
+<pad name="P$42" x="-7.62" y="16.51" drill="1.016" rot="R180"/>
+<pad name="P$15" x="2.54" y="16.51" drill="1.016" rot="R270"/>
+<pad name="P$16" x="0" y="16.51" drill="1.016" rot="R270"/>
+<pad name="P$17" x="-2.54" y="16.51" drill="1.016" rot="R270"/>
+<pad name="P$18" x="2.54" y="19.05" drill="1.016" rot="R270"/>
+<pad name="P$19" x="0" y="19.05" drill="1.016" rot="R270"/>
+<pad name="P$20" x="-2.54" y="19.05" drill="1.016" rot="R270"/>
+<text x="-3.81" y="15.24" size="0.762" layer="21" rot="R90">ICSP</text>
+<text x="-6.35" y="16.51" size="0.762" layer="21" rot="SR270" align="bottom-center">TX1</text>
+<text x="-6.35" y="13.97" size="0.762" layer="21" rot="SR270" align="bottom-center">RX0</text>
+<text x="-6.35" y="11.43" size="0.762" layer="21" rot="SR270" align="bottom-center">RST</text>
+<text x="-6.35" y="8.89" size="0.762" layer="21" rot="SR270" align="bottom-center">GND</text>
+<text x="-6.35" y="6.35" size="0.762" layer="21" rot="SR270" align="bottom-center">D2</text>
+<text x="-6.35" y="3.81" size="0.762" layer="21" rot="SR270" align="bottom-center">D3*</text>
+<text x="-6.35" y="1.27" size="0.762" layer="21" rot="SR270" align="bottom-center">D4</text>
+<text x="-6.35" y="-1.27" size="0.762" layer="21" rot="SR270" align="bottom-center">D5*</text>
+<text x="-6.35" y="-3.81" size="0.762" layer="21" rot="SR270" align="bottom-center">D6*</text>
+<text x="-6.35" y="-6.35" size="0.889" layer="21" rot="SR270" align="bottom-center">D7</text>
+<text x="-6.35" y="-8.89" size="0.889" layer="21" rot="SR270" align="bottom-center">D8</text>
+<text x="-6.35" y="-11.43" size="0.762" layer="21" rot="SR270" align="bottom-center">D9*</text>
+<text x="-6.35" y="-13.97" size="0.762" layer="21" rot="SR270" align="bottom-center">D1*</text>
+<text x="-6.35" y="-16.51" size="0.762" layer="21" rot="SR270" align="bottom-center">D11*</text>
+<text x="-6.35" y="-19.05" size="0.762" layer="21" rot="SR270" align="bottom-center">D12*</text>
+<pad name="P$21" x="7.62" y="-19.05" drill="1.016" rot="R180"/>
+<pad name="P$22" x="-7.62" y="-19.05" drill="1.016" rot="R180"/>
 </package>
 </packages>
 <symbols>
