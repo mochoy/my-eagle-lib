@@ -730,6 +730,12 @@ Nano</text>
 <text x="7.62" y="-27.94" size="1.778" layer="94" align="center-left">SS</text>
 <text x="-10.16" y="-30.48" size="1.778" layer="94" align="center-left">SDA</text>
 <text x="-10.16" y="-35.56" size="1.778" layer="94" align="center-left">SCL</text>
+<text x="18.034" y="7.62" size="1.778" layer="94" align="center-left">*</text>
+<text x="18.034" y="-2.54" size="1.778" layer="94" align="center-left">*</text>
+<text x="18.034" y="-7.62" size="1.778" layer="94" align="center-left">*</text>
+<text x="18.034" y="-22.86" size="1.778" layer="94" align="center-left">*</text>
+<text x="18.034" y="-27.94" size="1.778" layer="94" align="center-left">*</text>
+<text x="18.034" y="-33.02" size="1.778" layer="94" align="center-left">*</text>
 </symbol>
 </symbols>
 <devicesets>
