@@ -736,6 +736,21 @@ Nano</text>
 <text x="18.034" y="-22.86" size="1.778" layer="94" align="center-left">*</text>
 <text x="18.034" y="-27.94" size="1.778" layer="94" align="center-left">*</text>
 <text x="18.034" y="-33.02" size="1.778" layer="94" align="center-left">*</text>
+<text x="22.86" y="23.114" size="1.778" layer="94">L1</text>
+<text x="22.86" y="18.034" size="1.778" layer="94">L2</text>
+<text x="0.254" y="-66.04" size="1.778" layer="94">L4</text>
+<text x="22.86" y="12.954" size="1.778" layer="94">L5</text>
+<text x="22.86" y="7.874" size="1.778" layer="94">L6</text>
+<text x="22.86" y="2.794" size="1.778" layer="94">L7</text>
+<text x="22.86" y="-2.286" size="1.778" layer="94">L8</text>
+<text x="22.86" y="-7.366" size="1.778" layer="94">L9</text>
+<text x="22.86" y="-12.446" size="1.778" layer="94">L10</text>
+<text x="22.86" y="-17.526" size="1.778" layer="94">L11</text>
+<text x="22.86" y="-22.606" size="1.778" layer="94">L12</text>
+<text x="22.86" y="-27.686" size="1.778" layer="94">L13</text>
+<text x="20.574" y="-37.846" size="1.778" layer="94">L15</text>
+<text x="20.574" y="-32.766" size="1.778" layer="94">L14</text>
+<text x="-20.574" y="5.334" size="1.778" layer="94" align="bottom-right">L3</text>
 </symbol>
 </symbols>
 <devicesets>
