@@ -728,6 +728,8 @@ Nano</text>
 <text x="7.62" y="12.7" size="1.778" layer="94" align="center-left">INT0</text>
 <text x="7.62" y="7.62" size="1.778" layer="94" align="center-left">INT1</text>
 <text x="7.62" y="-27.94" size="1.778" layer="94" align="center-left">SS</text>
+<text x="-10.16" y="-30.48" size="1.778" layer="94" align="center-left">SDA</text>
+<text x="-10.16" y="-35.56" size="1.778" layer="94" align="center-left">SCL</text>
 </symbol>
 </symbols>
 <devicesets>
