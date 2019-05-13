@@ -58,7 +58,7 @@ I'll hopefully keep this updated
 
 ### Sources
 
-- Create packages and symbols using [this](http 04/06/19)s://electronics.stackexchange.com/questions/16030/new-eagle-library-reuse-standard-package-symbol)
+- Create packages and symbols using [this](https://electronics.stackexchange.com/questions/16030/new-eagle-library-reuse-standard-package-symbol)
 
 - More help with symbols [here](https://www.autodesk.com/products/eagle/blog/library-basics-part-2-creating-first-symbol-autodesk-eagle/)
 
