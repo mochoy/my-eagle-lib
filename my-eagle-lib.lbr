@@ -483,7 +483,7 @@
 <text x="-6.35" y="-6.35" size="0.889" layer="21" rot="SR270" align="bottom-center">D7</text>
 <text x="-6.35" y="-8.89" size="0.889" layer="21" rot="SR270" align="bottom-center">D8</text>
 <text x="-6.35" y="-11.43" size="0.762" layer="21" rot="SR270" align="bottom-center">D9*</text>
-<text x="-6.35" y="-13.97" size="0.762" layer="21" rot="SR270" align="bottom-center">D1*</text>
+<text x="-6.35" y="-13.97" size="0.762" layer="21" rot="SR270" align="bottom-center">D10*</text>
 <text x="-6.35" y="-16.51" size="0.762" layer="21" rot="SR270" align="bottom-center">D11*</text>
 <text x="-6.35" y="-19.05" size="0.762" layer="21" rot="SR270" align="bottom-center">D12*</text>
 <pad name="P$21" x="7.62" y="-19.05" drill="1.016" rot="R180"/>
@@ -509,6 +509,14 @@
 <text x="6.35" y="-13.97" size="0.762" layer="21" rot="R90" align="bottom-center">AREF</text>
 <text x="6.35" y="-16.51" size="0.762" layer="21" rot="R90" align="bottom-center">3V3</text>
 <text x="6.35" y="-19.05" size="0.762" layer="21" rot="R90" align="bottom-center">D13</text>
+<text x="-5.08" y="6.35" size="0.762" layer="21" align="center-left">INT0</text>
+<text x="-5.08" y="3.81" size="0.762" layer="21" align="center-left">INT1</text>
+<text x="-5.08" y="-13.97" size="0.762" layer="21" align="center-left">SS</text>
+<text x="-5.08" y="-16.51" size="0.762" layer="21" align="center-left">MOSI</text>
+<text x="-5.08" y="-19.05" size="0.762" layer="21" align="center-left">MISO</text>
+<text x="5.08" y="-19.05" size="0.762" layer="21" align="center-right">SCK</text>
+<text x="5.08" y="1.27" size="0.762" layer="21" align="center-right">SCL</text>
+<text x="5.08" y="-1.27" size="0.762" layer="21" align="center-right">SDA</text>
 </package>
 </packages>
 <symbols>
