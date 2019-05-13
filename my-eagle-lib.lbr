@@ -765,7 +765,13 @@ Nano</text>
 <text x="0.254" y="58.42" size="1.778" layer="94">R1</text>
 <text x="0.254" y="-68.58" size="1.778" layer="94">R2</text>
 <text x="-25.4" y="5.334" size="1.778" layer="94">L3</text>
-<text x="-22.86" y="5.334" size="1.778" layer="94">R3</text>
+<text x="-29.21" y="5.334" size="1.778" layer="94">R3</text>
+<text x="27.94" y="-37.846" size="1.778" layer="94">T1</text>
+<text x="-29.21" y="23.114" size="1.778" layer="94">T2</text>
+<text x="27.94" y="-42.926" size="1.778" layer="94">T3</text>
+<text x="27.94" y="-32.766" size="1.778" layer="94">T4</text>
+<text x="-33.02" y="5.334" size="1.778" layer="94">T5</text>
+<text x="3.81" y="-66.04" size="1.778" layer="94">T6</text>
 </symbol>
 </symbols>
 <devicesets>
