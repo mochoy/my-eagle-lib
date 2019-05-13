@@ -488,6 +488,12 @@
 <text x="-6.35" y="-19.05" size="0.762" layer="21" rot="SR270" align="bottom-center">D12*</text>
 <pad name="P$21" x="7.62" y="-19.05" drill="1.016" rot="R180"/>
 <pad name="P$22" x="-7.62" y="-19.05" drill="1.016" rot="R180"/>
+<text x="-2.54" y="12.7" size="0.762" layer="21" align="bottom-center">GND</text>
+<text x="0" y="12.7" size="0.762" layer="21" align="bottom-center">MOSI</text>
+<text x="2.54" y="12.7" size="0.762" layer="21" align="bottom-center">5V</text>
+<text x="-2.54" y="13.97" size="0.762" layer="21" align="bottom-center">RST</text>
+<text x="0" y="13.97" size="0.762" layer="21" align="bottom-center">SCK</text>
+<text x="2.54" y="13.97" size="0.762" layer="21" align="bottom-center">MISO</text>
 </package>
 </packages>
 <symbols>
