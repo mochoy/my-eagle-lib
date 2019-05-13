@@ -517,6 +517,18 @@
 <text x="5.08" y="-19.05" size="0.762" layer="21" align="center-right">SCK</text>
 <text x="5.08" y="1.27" size="0.762" layer="21" align="center-right">SCL</text>
 <text x="5.08" y="-1.27" size="0.762" layer="21" align="center-right">SDA</text>
+<wire x1="-8.89" y1="20.32" x2="8.89" y2="20.32" width="0.127" layer="21"/>
+<wire x1="8.89" y1="20.32" x2="8.89" y2="-22.86" width="0.127" layer="21"/>
+<wire x1="3.81" y1="-25.4" x2="-3.81" y2="-25.4" width="0.127" layer="21"/>
+<wire x1="-8.89" y1="-22.86" x2="-8.89" y2="20.32" width="0.127" layer="21"/>
+<wire x1="-3.81" y1="-20.32" x2="-3.81" y2="-22.86" width="0.127" layer="21"/>
+<wire x1="-3.81" y1="-22.86" x2="-3.81" y2="-25.4" width="0.127" layer="21"/>
+<wire x1="3.81" y1="-20.32" x2="3.81" y2="-22.86" width="0.127" layer="21"/>
+<wire x1="3.81" y1="-22.86" x2="3.81" y2="-25.4" width="0.127" layer="21"/>
+<wire x1="3.81" y1="-17.78" x2="3.81" y2="-15.24" width="0.127" layer="21"/>
+<wire x1="3.81" y1="-15.24" x2="-3.81" y2="-15.24" width="0.127" layer="21"/>
+<wire x1="-8.89" y1="-22.86" x2="-3.81" y2="-22.86" width="0.127" layer="21"/>
+<wire x1="3.81" y1="-22.86" x2="8.89" y2="-22.86" width="0.127" layer="21"/>
 </package>
 </packages>
 <symbols>
