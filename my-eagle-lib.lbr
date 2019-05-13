@@ -494,6 +494,21 @@
 <text x="-2.54" y="13.97" size="0.762" layer="21" align="bottom-center">RST</text>
 <text x="0" y="13.97" size="0.762" layer="21" align="bottom-center">SCK</text>
 <text x="2.54" y="13.97" size="0.762" layer="21" align="bottom-center">MISO</text>
+<text x="6.35" y="16.51" size="0.762" layer="21" rot="R90" align="bottom-center">VIN</text>
+<text x="6.35" y="13.97" size="0.762" layer="21" rot="R90" align="bottom-center">GND</text>
+<text x="6.35" y="11.43" size="0.762" layer="21" rot="R90" align="bottom-center">RST</text>
+<text x="6.35" y="8.89" size="0.762" layer="21" rot="R90" align="bottom-center">5V</text>
+<text x="6.35" y="6.35" size="0.762" layer="21" rot="R90" align="bottom-center">A7</text>
+<text x="6.35" y="3.81" size="0.762" layer="21" rot="R90" align="bottom-center">A6</text>
+<text x="6.35" y="1.27" size="0.762" layer="21" rot="R90" align="bottom-center">A5</text>
+<text x="6.35" y="-1.27" size="0.762" layer="21" rot="R90" align="bottom-center">A4</text>
+<text x="6.35" y="-3.81" size="0.762" layer="21" rot="R90" align="bottom-center">A3</text>
+<text x="6.35" y="-6.35" size="0.762" layer="21" rot="R90" align="bottom-center">A2</text>
+<text x="6.35" y="-8.89" size="0.762" layer="21" rot="R90" align="bottom-center">A1</text>
+<text x="6.35" y="-11.43" size="0.762" layer="21" rot="R90" align="bottom-center">A0</text>
+<text x="6.35" y="-13.97" size="0.762" layer="21" rot="R90" align="bottom-center">AREF</text>
+<text x="6.35" y="-16.51" size="0.762" layer="21" rot="R90" align="bottom-center">3V3</text>
+<text x="6.35" y="-19.05" size="0.762" layer="21" rot="R90" align="bottom-center">D13</text>
 </package>
 </packages>
 <symbols>
