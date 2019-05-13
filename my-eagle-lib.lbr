@@ -676,7 +676,7 @@ Nano</text>
 <text x="0" y="10.16" size="1.778" layer="95" align="top-center">&gt;NAME</text>
 <text x="0" y="5.08" size="1.778" layer="96" align="top-center">&gt;VALUE</text>
 </symbol>
-<symbol name="ARDUINO_UNO">
+<symbol name="ARDUINO_NANO">
 <pin name="VIN" x="0" y="60.96" length="middle" rot="R270"/>
 <pin name="A0" x="-25.4" y="-10.16" length="middle"/>
 <pin name="A1" x="-25.4" y="-15.24" length="middle"/>
