@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="10" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
+<grid distance="5" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="1" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="yes" active="yes"/>
@@ -366,6 +366,14 @@
 <wire x1="-7.366" y1="-7.112" x2="-6.858" y2="-7.62" width="0.127" layer="46" curve="70"/>
 <wire x1="-6.858" y1="-7.62" x2="-6.604" y2="-7.62" width="0.127" layer="46"/>
 <wire x1="-6.604" y1="-7.62" x2="-6.096" y2="-7.112" width="0.127" layer="46" curve="70"/>
+<wire x1="7.366" y1="-7.112" x2="7.366" y2="-5.08" width="0.127" layer="46"/>
+<wire x1="7.366" y1="-5.08" x2="6.858" y2="-4.572" width="0.127" layer="46" curve="70"/>
+<wire x1="6.858" y1="-4.572" x2="6.604" y2="-4.572" width="0.127" layer="46"/>
+<wire x1="6.604" y1="-4.572" x2="6.096" y2="-5.08" width="0.127" layer="46" curve="70"/>
+<wire x1="6.096" y1="-5.08" x2="6.096" y2="-7.112" width="0.127" layer="46"/>
+<wire x1="6.096" y1="-7.112" x2="6.604" y2="-7.62" width="0.127" layer="46" curve="70"/>
+<wire x1="6.604" y1="-7.62" x2="6.858" y2="-7.62" width="0.127" layer="46"/>
+<wire x1="6.858" y1="-7.62" x2="7.366" y2="-7.112" width="0.127" layer="46" curve="70"/>
 </package>
 <package name="XT60-PW-F">
 <pad name="P$2" x="-3.556" y="0" drill="2.7432"/>
