@@ -565,13 +565,21 @@ Nano</text>
 <text x="0" y="-8.89" size="1.016" layer="21" align="top-center">&gt;VALUE</text>
 </package>
 <package name="MOTOR_BOARD_TAB_HOLE">
-<pad name="P$1" x="0" y="0" drill="0.127" diameter="3.81" shape="long" rot="R90"/>
+<pad name="P$1" x="0" y="0" drill="0.127" diameter="3.81" shape="long" rot="R90" stop="no"/>
 <wire x1="0" y1="-3.175" x2="1.27" y2="-1.905" width="0.127" layer="46" curve="90"/>
 <wire x1="1.27" y1="-1.905" x2="1.27" y2="1.905" width="0.127" layer="46"/>
 <wire x1="1.27" y1="1.905" x2="0" y2="3.175" width="0.127" layer="46" curve="90"/>
 <wire x1="0" y1="3.175" x2="-1.27" y2="1.905" width="0.127" layer="46" curve="90"/>
 <wire x1="-1.27" y1="1.905" x2="-1.27" y2="-1.905" width="0.127" layer="46"/>
 <wire x1="-1.27" y1="-1.905" x2="0" y2="-3.175" width="0.127" layer="46" curve="90"/>
+<polygon width="0.127" layer="29">
+<vertex x="0" y="3.937" curve="-90"/>
+<vertex x="2.032" y="1.905"/>
+<vertex x="2.032" y="-1.905" curve="-90"/>
+<vertex x="0" y="-3.937" curve="-90"/>
+<vertex x="-2.032" y="-1.905"/>
+<vertex x="-2.032" y="1.905" curve="-90"/>
+</polygon>
 </package>
 </packages>
 <symbols>
