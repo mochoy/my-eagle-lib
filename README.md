@@ -56,6 +56,8 @@ I'll hopefully keep this updated
 
 - Arduino Nano (Sun, 05/12/19)
 
+- Motor Tab Hole (Sat, 05/18/19) - Hole to solder motor tabs
+
 ### Sources
 
 - Create packages and symbols using [this](https://electronics.stackexchange.com/questions/16030/new-eagle-library-reuse-standard-package-symbol)
