@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
+<grid distance="10" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="yes" active="yes"/>
@@ -565,6 +565,7 @@ Nano</text>
 <text x="0" y="-8.89" size="1.016" layer="21" align="top-center">&gt;VALUE</text>
 </package>
 <package name="MOTOR_BOARD_TAB_HOLE">
+<pad name="P$1" x="-1.27" y="-1.27" drill="3.048" diameter="5.08" shape="long" rot="R90"/>
 </package>
 </packages>
 <symbols>
