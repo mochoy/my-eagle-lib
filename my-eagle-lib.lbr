@@ -1109,8 +1109,8 @@ Features
 <connect gate="G$1" pin="D0/RX0" pad="P2"/>
 <connect gate="G$1" pin="D1/TX1" pad="P1"/>
 <connect gate="G$1" pin="D10" pad="P13"/>
-<connect gate="G$1" pin="D11/MOSI" pad="P14 P35"/>
-<connect gate="G$1" pin="D12/MISO" pad="P15 P34"/>
+<connect gate="G$1" pin="D11/MOSI" pad="P14 P34"/>
+<connect gate="G$1" pin="D12/MISO" pad="P15 P35"/>
 <connect gate="G$1" pin="D13/SCK" pad="P16 P33"/>
 <connect gate="G$1" pin="D2" pad="P5"/>
 <connect gate="G$1" pin="D3" pad="P6"/>
