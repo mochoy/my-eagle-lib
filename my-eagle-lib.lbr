@@ -1134,9 +1134,13 @@ Features
 </deviceset>
 <deviceset name="MOUNT_HOLE_3MM">
 <gates>
+<gate name="G$1" symbol="MOUNT-PAD" x="0" y="0"/>
 </gates>
 <devices>
-<device name="">
+<device name="" package="MOUNT_HOLE_3MM">
+<connects>
+<connect gate="G$1" pin="MOUNT" pad="P$1"/>
+</connects>
 <technologies>
 <technology name=""/>
 </technologies>
