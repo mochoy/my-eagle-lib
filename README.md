@@ -58,6 +58,8 @@ I'll hopefully keep this updated
 
 - Motor Tab Hole (Sat, 05/18/19) - Hole to solder motor tabs
 
+- 3mm Padded Mounting Hole (Sun, 06/09/19) - Mounting holes for Nerf screws
+
 ### Sources
 
 - Create packages and symbols using [this](https://electronics.stackexchange.com/questions/16030/new-eagle-library-reuse-standard-package-symbol)
