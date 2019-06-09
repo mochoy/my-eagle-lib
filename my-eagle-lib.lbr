@@ -581,6 +581,7 @@ Nano</text>
 </polygon>
 </package>
 <package name="MOUNT_HOLE_3MM">
+<pad name="P$1" x="0" y="0" drill="2.9972"/>
 </package>
 </packages>
 <symbols>
