@@ -1133,6 +1133,7 @@ Features
 </devices>
 </deviceset>
 <deviceset name="MOUNT_HOLE_3MM">
+<description>Mount hole with 3mm inner diameter. Should be good for Nerf screws, will test that in Select-fire Rapidstrik p0.1 board MLB.</description>
 <gates>
 <gate name="G$1" symbol="MOUNT-PAD" x="0" y="0"/>
 </gates>
