@@ -215,7 +215,6 @@
 <pad name="P$1" x="0" y="0" drill="1.778"/>
 </package>
 <package name="MOUNT-HOLE-2.5MM">
-<hole x="0" y="0" drill="2.54"/>
 <pad name="P$1" x="0" y="0" drill="2.54" diameter="3.81"/>
 </package>
 <package name="SOIC-8">
