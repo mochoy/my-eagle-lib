@@ -56,7 +56,7 @@ I'll hopefully keep this updated
 
 - Arduino Nano (Sun, 05/12/19)
 
-- Motor Tab Hole (Sat, 05/18/19) - Hole to solder motor tabs
+- Motor Tab Hole (Sat, 05/18/19, updated Sun, 06/30/19) - Hole in rectangle pad to solder motor tabs
 
 - 3mm Padded Mounting Hole (Sun, 06/09/19) - Mounting holes for Nerf screws
 
