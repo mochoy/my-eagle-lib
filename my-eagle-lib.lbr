@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
+<grid distance="10" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="yes" active="yes"/>
@@ -568,7 +568,7 @@ Nano</text>
 <wire x1="0" y1="2.921" x2="-1.27" y2="1.651" width="0.127" layer="46" curve="90"/>
 <wire x1="-1.27" y1="1.651" x2="-1.27" y2="-2.159" width="0.127" layer="46"/>
 <wire x1="-1.27" y1="-2.159" x2="0" y2="-3.429" width="0.127" layer="46" curve="90"/>
-<smd name="P$1" x="0" y="-0.254" dx="4.064" dy="7.62" layer="1"/>
+<smd name="P$1" x="-0.254" y="-0.254" dx="4.572" dy="8.636" layer="1"/>
 </package>
 <package name="MOUNT_HOLE_3MM">
 <pad name="P$1" x="0" y="0" drill="2.9972"/>
