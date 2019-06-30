@@ -562,13 +562,13 @@ Nano</text>
 <text x="0" y="-8.89" size="1.016" layer="21" align="top-center">&gt;VALUE</text>
 </package>
 <package name="MOTOR_BOARD_TAB_HOLE">
-<wire x1="0" y1="-3.429" x2="1.27" y2="-2.159" width="0.127" layer="46" curve="90"/>
-<wire x1="1.27" y1="-2.159" x2="1.27" y2="1.651" width="0.127" layer="46"/>
-<wire x1="1.27" y1="1.651" x2="0" y2="2.921" width="0.127" layer="46" curve="90"/>
-<wire x1="0" y1="2.921" x2="-1.27" y2="1.651" width="0.127" layer="46" curve="90"/>
-<wire x1="-1.27" y1="1.651" x2="-1.27" y2="-2.159" width="0.127" layer="46"/>
-<wire x1="-1.27" y1="-2.159" x2="0" y2="-3.429" width="0.127" layer="46" curve="90"/>
-<smd name="P$1" x="-0.254" y="-0.254" dx="4.572" dy="8.636" layer="1"/>
+<wire x1="0" y1="-3.175" x2="1.27" y2="-1.905" width="0.127" layer="46" curve="90"/>
+<wire x1="1.27" y1="-1.905" x2="1.27" y2="1.905" width="0.127" layer="46"/>
+<wire x1="1.27" y1="1.905" x2="0" y2="3.175" width="0.127" layer="46" curve="90"/>
+<wire x1="0" y1="3.175" x2="-1.27" y2="1.905" width="0.127" layer="46" curve="90"/>
+<wire x1="-1.27" y1="1.905" x2="-1.27" y2="-1.905" width="0.127" layer="46"/>
+<wire x1="-1.27" y1="-1.905" x2="0" y2="-3.175" width="0.127" layer="46" curve="90"/>
+<smd name="P$1" x="0" y="0" dx="4.064" dy="7.62" layer="1"/>
 </package>
 <package name="MOUNT_HOLE_3MM">
 <pad name="P$1" x="0" y="0" drill="2.9972"/>
