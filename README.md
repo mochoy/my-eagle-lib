@@ -60,6 +60,8 @@ I'll hopefully keep this updated
 
 - 3mm Padded Mounting Hole (Sun, 06/09/19) - Mounting holes for Nerf screws
 
+- [74LVC1G07](https://www.diodes.com/assets/Datasheets/74LVC1G07.pdf) (Thur, 07/04/19) - Single open drain buffer output
+
 ### Sources
 
 - Create packages and symbols using [this](https://electronics.stackexchange.com/questions/16030/new-eagle-library-reuse-standard-package-symbol)
