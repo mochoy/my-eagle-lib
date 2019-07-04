@@ -1165,9 +1165,16 @@ Features
 </deviceset>
 <deviceset name="74LVC1G07">
 <gates>
+<gate name="G$1" symbol="74LVC1G07" x="-10.16" y="0"/>
 </gates>
 <devices>
-<device name="">
+<device name="" package="SOT23-5">
+<connects>
+<connect gate="G$1" pin="P$1" pad="2"/>
+<connect gate="G$1" pin="P$2" pad="3"/>
+<connect gate="G$1" pin="P$3" pad="4"/>
+<connect gate="G$1" pin="P$4" pad="5"/>
+</connects>
 <technologies>
 <technology name=""/>
 </technologies>
