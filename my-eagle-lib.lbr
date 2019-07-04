@@ -1164,6 +1164,17 @@ Features
 </devices>
 </deviceset>
 <deviceset name="74LVC1G07">
+<description>&lt;p&gt;The 74LVC1G07 is a single buffer gate with an open-drain output.
+The device is designed for operation with a power supply range of
+1.65V to 5.5V. The input is tolerant to 5.5V allowing this device to be
+used in a mixed voltage environment. The device is fully specified for
+partial power down applications using IOFF. The IOFF circuitry disables
+the output preventing damaging current backflow when the device is
+powered down. The open-drain output can be connected to other
+open drain outputs to implement active-low wired-OR or active-high
+wired-AND functions. The maximum sink current is 32mA.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.diodes.com/assets/Datasheets/74LVC1G07.pdf"&gt;https://www.diodes.com/assets/Datasheets/74LVC1G07.pdf&lt;/p&gt;</description>
 <gates>
 <gate name="G$1" symbol="74LVC1G07" x="-10.16" y="0"/>
 </gates>
