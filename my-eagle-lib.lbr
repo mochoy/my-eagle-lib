@@ -1224,6 +1224,7 @@ wired-AND functions. The maximum sink current is 32mA.&lt;/p&gt;
 </devices>
 </deviceset>
 <deviceset name="UNPLATED_MOUNT_HOLE_3MM">
+<description>Unplated mount hole for Nerf Screws with 3mm (118.11 mill) diameter. Good if used near components that will be hand soldered so solder can't get on hole's copper plating</description>
 <gates>
 <gate name="G$1" symbol="MOUNT_PAD_NO_PIN" x="0" y="0"/>
 </gates>
