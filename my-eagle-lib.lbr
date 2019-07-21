@@ -629,6 +629,7 @@ Used on single circuit logic gates</description>
 <text x="1.905" y="0" size="0.6096" layer="27" font="vector" ratio="20" rot="R90" align="bottom-center">&gt;VALUE</text>
 </package>
 <package name="UNPLATED_MOUNT_HOLE_3MM">
+<hole x="0" y="0" drill="2.99999375"/>
 </package>
 </packages>
 <symbols>
