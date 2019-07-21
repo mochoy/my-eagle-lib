@@ -58,9 +58,11 @@ I'll hopefully keep this updated
 
 - Motor Tab Hole (Sat, 05/18/19, updated Sun, 06/30/19) - Hole in rectangle pad to solder motor tabs
 
-- 3mm Padded Mounting Hole (Sun, 06/09/19) - Mounting holes for Nerf screws
+- 3mm Padded Mount Hole (Sun, 06/09/19) - Mounting holes for Nerf screws
 
 - [74LVC1G07](https://www.diodes.com/assets/Datasheets/74LVC1G07.pdf) (Thur, 07/04/19) - Single open drain buffer output
+
+- 3mm Unplated Mount Hole (Sun, 07/21/19) - Unplated mount hole for Nerf Screws. Good if used near components that will be hand soldered so solder can't get on hole's copper plating
 
 ### Sources
 
