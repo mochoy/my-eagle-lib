@@ -1288,9 +1288,10 @@ wired-AND functions. The maximum sink current is 32mA.&lt;/p&gt;
 </deviceset>
 <deviceset name="INA181">
 <gates>
+<gate name="G$1" symbol="INA181" x="0" y="0"/>
 </gates>
 <devices>
-<device name="">
+<device name="" package="SOT23-6">
 <technologies>
 <technology name=""/>
 </technologies>
