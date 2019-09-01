@@ -1287,6 +1287,27 @@ wired-AND functions. The maximum sink current is 32mA.&lt;/p&gt;
 </devices>
 </deviceset>
 <deviceset name="INA181">
+<description>&lt;p&gt;
+The INA181, INA2181, and INA4181 (INAx181) current sense amplifiers are designed for costoptimized applications. These devices are part of a family of bidirectional, current-sense amplifiers (also
+called current-shunt monitors) that sense voltage drops across current-sense resistors at commonmode voltages from –0.2 V to +26 V, independent of the supply voltage. The INAx181 family integrates a
+matched resistor gain network in four, fixed-gain device options: 20 V/V, 50 V/V, 100 V/V, or 200 V/V. This matched gain resistor network minimizes gain error and reduces the temperature drift. 
+&lt;/p&gt;
+
+&lt;p&gt;
+These devices operate from a single 2.7-V to 5.5-V power supply. The single-channel INA181 draws a maximum supply current of 260 µA; whereas, the dual-channel INA2181 draws a maximum supply current of 500 µA, and the quad-channel INA4181 draws a maximum supply current of 900 µA.
+&lt;/p&gt;
+
+&lt;p&gt;
+The INA181 is available in a 6-pin, SOT-23 package. The INA2181 is available in an 10-pin, VSSOP package. The INA4181 is available in a 20-pin, TSSOP package. All device options are specified over the extended operating temperature range of –40°C to +125°C.
+&lt;/p&gt;
+
+&lt;p&gt; 
+&lt;b&gt; Footprint: &lt;/b&gt; SOT23-6	
+&lt;/p&gt;
+
+&lt;p&gt; 
+&lt;b&gt; Datasheet: &lt;/b&gt;&lt;a href="http://www.ti.com/lit/ds/symlink/ina181.pdf"&gt; http://www.ti.com/lit/ds/symlink/ina181.pdf &lt;/a&gt;
+&lt;/p&gt;</description>
 <gates>
 <gate name="G$1" symbol="INA181" x="0" y="0"/>
 </gates>
