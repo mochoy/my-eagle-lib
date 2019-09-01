@@ -863,6 +863,19 @@ Used on single circuit logic gates</description>
 <text x="2.794" y="-2.4638" size="1.778" layer="96">&gt;VALUE</text>
 </symbol>
 <symbol name="INA181">
+<text x="0" y="2.54" size="1.778" layer="95" align="bottom-center">&gt;NAME</text>
+<text x="0" y="0" size="1.778" layer="94" align="bottom-center">INA181</text>
+<pin name="VCC" x="0" y="20.32" length="middle" direction="pwr" rot="R270"/>
+<pin name="GND" x="0" y="-20.32" length="middle" direction="pwr" rot="R90"/>
+<pin name="REF" x="20.32" y="-7.62" length="middle" direction="in" rot="R180"/>
+<pin name="OUT" x="20.32" y="2.54" length="middle" direction="out" rot="R180"/>
+<pin name="IN-" x="-20.32" y="2.54" length="middle" direction="in"/>
+<pin name="IN+" x="-20.32" y="-7.62" length="middle" direction="in"/>
+<text x="0" y="-2.54" size="1.778" layer="96" align="bottom-center">&gt;VALUE</text>
+<wire x1="-15.24" y1="15.24" x2="-15.24" y2="-15.24" width="0.254" layer="94"/>
+<wire x1="-15.24" y1="-15.24" x2="15.24" y2="-15.24" width="0.254" layer="94"/>
+<wire x1="15.24" y1="-15.24" x2="15.24" y2="15.24" width="0.254" layer="94"/>
+<wire x1="15.24" y1="15.24" x2="-15.24" y2="15.24" width="0.254" layer="94"/>
 </symbol>
 </symbols>
 <devicesets>
