@@ -64,7 +64,9 @@ I'll hopefully keep this updated
 
 - 3mm Unplated Mount Hole (Sun, 07/21/19) - Unplated mount hole for Nerf Screws. Good if used near components that will be hand soldered so solder can't get on hole's copper plating
 
-- [INA181]http://www.ti.com/lit/ds/symlink/ina181.pdf) (Sat, 08/31/19) - Bidirectional, low- and high-side voltage output, current-sense amplifiers
+- [INA181](http://www.ti.com/lit/ds/symlink/ina181.pdf) (Sat, 08/31/19) - Bidirectional, low- and high-side voltage output, current-sense amplifiers
+
+- [CH340G](http://www.handsontec.com/dataspecs/ch340g.pdf) (Fri, 11/15/19) - USB to UART interface IC
 
 
 ### Sources
