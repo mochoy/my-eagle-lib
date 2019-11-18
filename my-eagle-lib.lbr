@@ -956,16 +956,22 @@ Source: http://www.cypress.com .. 38-12025_0P_V.pdf</description>
 <wire x1="15.24" y1="15.24" x2="-15.24" y2="15.24" width="0.254" layer="94"/>
 </symbol>
 <symbol name="CH340G">
-<pin name="VCC" x="-2.54" y="20.32" length="middle" direction="pwr" rot="R270"/>
-<pin name="GND" x="0" y="-53.34" length="middle" direction="pwr" rot="R90"/>
-<pin name="TXD" x="20.32" y="2.54" length="middle" direction="out" rot="R180"/>
+<pin name="VCC" x="-2.54" y="30.48" length="middle" direction="pwr" rot="R270"/>
+<pin name="GND" x="0" y="-60.96" length="middle" direction="pwr" rot="R90"/>
+<pin name="TXD" x="25.4" y="2.54" length="middle" direction="out" rot="R180"/>
 <pin name="RXD" x="20.32" y="-2.54" length="middle" direction="out" rot="R180"/>
-<pin name="V3" x="2.54" y="20.32" length="middle" direction="pwr" rot="R270"/>
+<pin name="V3" x="2.54" y="30.48" length="middle" direction="pwr" rot="R270"/>
 <pin name="D+" x="-25.4" y="2.54" length="middle"/>
 <pin name="D-" x="-25.4" y="-2.54" length="middle"/>
 <pin name="XI" x="-25.4" y="-15.24" length="middle"/>
 <pin name="XO" x="-25.4" y="-20.32" length="middle"/>
-<pin name="R232" x="-25.4" y="-33.02" length="middle"/>
+<pin name="R232" x="-25.4" y="-33.02" length="middle" direction="in"/>
+<pin name="CTS" x="20.32" y="-12.7" length="middle" direction="in" rot="R180"/>
+<pin name="DSR" x="20.32" y="-17.78" length="middle" direction="in" rot="R180"/>
+<pin name="RI" x="20.32" y="-22.86" length="middle" direction="in" rot="R180"/>
+<pin name="DCD" x="20.32" y="-27.94" length="middle" direction="in" rot="R180"/>
+<pin name="DTR" x="20.32" y="-33.02" length="middle" direction="out" rot="R180"/>
+<pin name="RTS" x="20.32" y="-38.1" length="middle" direction="out" rot="R180"/>
 </symbol>
 </symbols>
 <devicesets>
