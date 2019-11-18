@@ -66,7 +66,7 @@ I'll hopefully keep this updated
 
 - [INA181](http://www.ti.com/lit/ds/symlink/ina181.pdf) (Sat, 08/31/19) - Bidirectional, low- and high-side voltage output, current-sense amplifiers
 
-- [CH340G](http://www.handsontec.com/dataspecs/ch340g.pdf) (Fri, 11/15/19) - USB to UART interface IC. The datasheets for this part are relatively sparse, so [here's](https://cdn.sparkfun.com/datasheets/Dev/Arduino/Other/CH340DS1.PDF) another datasheet.
+- [CH340G](http://www.handsontec.com/dataspecs/ch340g.pdf) (Fri, 11/15/19) - USB to UART interface IC. The datasheets for this part are relatively sparse, so [here's](https://cdn.sparkfun.com/datasheets/Dev/Arduino/Other/CH340DS1.PDF) another datasheet for a parts in the same CH340 family.
 
 
 ### Sources
