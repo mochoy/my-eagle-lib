@@ -956,22 +956,22 @@ Source: http://www.cypress.com .. 38-12025_0P_V.pdf</description>
 <wire x1="15.24" y1="15.24" x2="-15.24" y2="15.24" width="0.254" layer="94"/>
 </symbol>
 <symbol name="CH340G">
-<pin name="VCC" x="-2.54" y="58.42" length="middle" direction="pwr" rot="R270"/>
-<pin name="GND" x="0" y="-55.88" length="middle" direction="pwr" rot="R90"/>
-<pin name="TXD" x="30.48" y="10.16" length="middle" direction="out" rot="R180"/>
-<pin name="RXD" x="30.48" y="5.08" length="middle" direction="out" rot="R180"/>
-<pin name="V3" x="2.54" y="58.42" length="middle" direction="pwr" rot="R270"/>
-<pin name="D+" x="-30.48" y="10.16" length="middle"/>
-<pin name="D-" x="-30.48" y="5.08" length="middle"/>
-<pin name="XI" x="-30.48" y="-10.16" length="middle"/>
-<pin name="XO" x="-30.48" y="-15.24" length="middle"/>
+<pin name="VCC" x="-2.54" y="60.96" direction="pwr" rot="R270"/>
+<pin name="GND" x="0" y="-58.42" direction="pwr" rot="R90"/>
+<pin name="TXD" x="33.02" y="10.16" direction="out" rot="R180"/>
+<pin name="RXD" x="33.02" y="5.08" direction="out" rot="R180"/>
+<pin name="V3" x="2.54" y="60.96" direction="pwr" rot="R270"/>
+<pin name="D+" x="-33.02" y="10.16"/>
+<pin name="D-" x="-33.02" y="5.08"/>
+<pin name="XI" x="-33.02" y="-10.16"/>
+<pin name="XO" x="-33.02" y="-15.24"/>
 <pin name="R232" x="-30.48" y="-30.48" length="middle" direction="in"/>
-<pin name="CTS" x="30.48" y="-5.08" length="middle" direction="in" rot="R180"/>
-<pin name="DSR" x="30.48" y="-10.16" length="middle" direction="in" rot="R180"/>
-<pin name="RI" x="30.48" y="-15.24" length="middle" direction="in" rot="R180"/>
-<pin name="DCD" x="30.48" y="-20.32" length="middle" direction="in" rot="R180"/>
-<pin name="DTR" x="30.48" y="-25.4" length="middle" direction="out" rot="R180"/>
-<pin name="RTS" x="30.48" y="-30.48" length="middle" direction="out" rot="R180"/>
+<pin name="CTS" x="33.02" y="-5.08" direction="in" rot="R180"/>
+<pin name="DSR" x="33.02" y="-10.16" direction="in" rot="R180"/>
+<pin name="RI" x="33.02" y="-15.24" direction="in" rot="R180"/>
+<pin name="DCD" x="33.02" y="-20.32" direction="in" rot="R180"/>
+<pin name="DTR" x="33.02" y="-25.4" direction="out" rot="R180"/>
+<pin name="RTS" x="33.02" y="-30.48" direction="out" rot="R180"/>
 <text x="0" y="40.64" size="1.778" layer="94" align="bottom-center">POWER</text>
 <text x="0" y="30.48" size="2.54" layer="95" align="bottom-center">&gt;NAME</text>
 <text x="0" y="25.4" size="2.54" layer="96" align="bottom-center">&gt;VALUE</text>
