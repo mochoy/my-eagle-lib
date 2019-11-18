@@ -1430,6 +1430,14 @@ The INA181 is available in a 6-pin, SOT-23 package. The INA2181 is available in 
 </devices>
 </deviceset>
 <deviceset name="CH340G">
+<description>&lt;p&gt;CH340 is a series of USB bus adapters, that provides serial, parallel or IrDA interfaces over
+the USB bus (note: CH340G supports serial interface only). The CH340G integrate circuit
+provides common MODEM signals to allow adding a UART to a computer, or converting
+existing UART devices to USB interface. &lt;/p&gt;
+
+&lt;p&gt;This is a foreign component and most datasheets are in another language. Here is the best datasheet I could find.&lt;/p&gt;
+&lt;p&gt;Datasheet: &lt;a href="http://www.handsontec.com/dataspecs/ch340g.pdf"&gt;http://www.handsontec.com/dataspecs/ch340g.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sparkfun also has datasheets on the CH340 family, but not of the CH340G. It may still prove to be useful: &lt;a href="https://cdn.sparkfun.com/datasheets/Dev/Arduino/Other/CH340DS1.PDF"&gt;https://cdn.sparkfun.com/datasheets/Dev/Arduino/Other/CH340DS1.PDF&lt;/a&gt;&lt;/p&gt;</description>
 <gates>
 </gates>
 <devices>
