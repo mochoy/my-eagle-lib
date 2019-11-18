@@ -956,7 +956,10 @@ Source: http://www.cypress.com .. 38-12025_0P_V.pdf</description>
 <wire x1="15.24" y1="15.24" x2="-15.24" y2="15.24" width="0.254" layer="94"/>
 </symbol>
 <symbol name="CH340G">
-<pin name="VCC" x="0" y="20.32" length="middle" rot="R270"/>
+<pin name="VCC" x="0" y="20.32" length="middle" direction="pwr" rot="R270"/>
+<pin name="GND" x="0" y="-22.86" length="middle" direction="pwr" rot="R90"/>
+<pin name="TXD" x="20.32" y="2.54" length="middle" direction="out" rot="R180"/>
+<pin name="RXD" x="20.32" y="-2.54" length="middle" direction="out" rot="R180"/>
 </symbol>
 </symbols>
 <devicesets>
