@@ -1442,7 +1442,7 @@ existing UART devices to USB interface. &lt;/p&gt;
 <gate name="G$1" symbol="CH340G" x="0" y="0"/>
 </gates>
 <devices>
-<device name="">
+<device name="" package="SOIC16">
 <technologies>
 <technology name=""/>
 </technologies>
