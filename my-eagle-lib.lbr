@@ -957,14 +957,15 @@ Source: http://www.cypress.com .. 38-12025_0P_V.pdf</description>
 </symbol>
 <symbol name="CH340G">
 <pin name="VCC" x="-2.54" y="20.32" length="middle" direction="pwr" rot="R270"/>
-<pin name="GND" x="0" y="-43.18" length="middle" direction="pwr" rot="R90"/>
+<pin name="GND" x="0" y="-53.34" length="middle" direction="pwr" rot="R90"/>
 <pin name="TXD" x="20.32" y="2.54" length="middle" direction="out" rot="R180"/>
 <pin name="RXD" x="20.32" y="-2.54" length="middle" direction="out" rot="R180"/>
 <pin name="V3" x="2.54" y="20.32" length="middle" direction="pwr" rot="R270"/>
 <pin name="D+" x="-25.4" y="2.54" length="middle"/>
 <pin name="D-" x="-25.4" y="-2.54" length="middle"/>
-<pin name="XI" x="-25.4" y="-15.24" length="middle" direction="in"/>
-<pin name="XO" x="-25.4" y="-20.32" length="middle" direction="in"/>
+<pin name="XI" x="-25.4" y="-15.24" length="middle"/>
+<pin name="XO" x="-25.4" y="-20.32" length="middle"/>
+<pin name="R232" x="-25.4" y="-33.02" length="middle"/>
 </symbol>
 </symbols>
 <devicesets>
