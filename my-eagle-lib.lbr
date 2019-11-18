@@ -960,6 +960,9 @@ Source: http://www.cypress.com .. 38-12025_0P_V.pdf</description>
 <pin name="GND" x="0" y="-22.86" length="middle" direction="pwr" rot="R90"/>
 <pin name="TXD" x="20.32" y="2.54" length="middle" direction="out" rot="R180"/>
 <pin name="RXD" x="20.32" y="-2.54" length="middle" direction="out" rot="R180"/>
+<pin name="V3" x="5.08" y="20.32" length="middle" direction="pwr" rot="R270"/>
+<pin name="D+" x="-17.78" y="2.54" length="middle"/>
+<pin name="D-" x="-17.78" y="-2.54" length="middle"/>
 </symbol>
 </symbols>
 <devicesets>
