@@ -1439,6 +1439,7 @@ existing UART devices to USB interface. &lt;/p&gt;
 &lt;p&gt;Datasheet: &lt;a href="http://www.handsontec.com/dataspecs/ch340g.pdf"&gt;http://www.handsontec.com/dataspecs/ch340g.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Sparkfun also has datasheets on the CH340 family, but not of the CH340G. It may still prove to be useful: &lt;a href="https://cdn.sparkfun.com/datasheets/Dev/Arduino/Other/CH340DS1.PDF"&gt;https://cdn.sparkfun.com/datasheets/Dev/Arduino/Other/CH340DS1.PDF&lt;/a&gt;&lt;/p&gt;</description>
 <gates>
+<gate name="G$1" symbol="CH340G" x="0" y="0"/>
 </gates>
 <devices>
 <device name="">
