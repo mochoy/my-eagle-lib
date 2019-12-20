@@ -1597,9 +1597,10 @@ existing UART devices to USB interface. &lt;/p&gt;
 </deviceset>
 <deviceset name="IFX1763XEJV50">
 <gates>
+<gate name="G$1" symbol="IFX1763V50" x="0" y="10.16"/>
 </gates>
 <devices>
-<device name="">
+<device name="" package="PG-DSO-8">
 <technologies>
 <technology name=""/>
 </technologies>
