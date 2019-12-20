@@ -1601,6 +1601,14 @@ existing UART devices to USB interface. &lt;/p&gt;
 </gates>
 <devices>
 <device name="" package="PG-DSO-8">
+<connects>
+<connect gate="G$1" pin="BYP" pad="4"/>
+<connect gate="G$1" pin="EN" pad="5"/>
+<connect gate="G$1" pin="GND" pad="6 BODY"/>
+<connect gate="G$1" pin="SENSE" pad="2"/>
+<connect gate="G$1" pin="VIN" pad="8"/>
+<connect gate="G$1" pin="VOUT" pad="1"/>
+</connects>
 <technologies>
 <technology name=""/>
 </technologies>
