@@ -1127,6 +1127,14 @@ CONTROL</text>
 <pin name="GND" x="0" y="-22.86" length="middle" direction="pwr" rot="R90"/>
 </symbol>
 <symbol name="IFX1763V50">
+<wire x1="-22.86" y1="10.16" x2="22.86" y2="10.16" width="0.254" layer="94"/>
+<wire x1="22.86" y1="10.16" x2="22.86" y2="-27.94" width="0.254" layer="94"/>
+<wire x1="22.86" y1="-27.94" x2="-20.32" y2="-27.94" width="0.254" layer="94"/>
+<wire x1="-20.32" y1="-27.94" x2="-22.86" y2="-27.94" width="0.254" layer="94"/>
+<wire x1="-22.86" y1="-27.94" x2="-22.86" y2="10.16" width="0.254" layer="94"/>
+<text x="0" y="2.54" size="1.778" layer="95" align="bottom-center">&gt;NAME</text>
+<text x="0" y="0" size="1.778" layer="97" align="bottom-center">IFX1763XEJV50</text>
+<text x="0" y="-2.54" size="1.778" layer="96" align="bottom-center">&gt;VALUE</text>
 </symbol>
 </symbols>
 <devicesets>
