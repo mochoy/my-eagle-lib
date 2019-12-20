@@ -1135,6 +1135,12 @@ CONTROL</text>
 <text x="0" y="2.54" size="1.778" layer="95" align="bottom-center">&gt;NAME</text>
 <text x="0" y="0" size="1.778" layer="97" align="bottom-center">IFX1763XEJV50</text>
 <text x="0" y="-2.54" size="1.778" layer="96" align="bottom-center">&gt;VALUE</text>
+<pin name="VIN" x="-27.94" y="0" length="middle" direction="pwr"/>
+<pin name="EN" x="-27.94" y="-20.32" length="middle" direction="in"/>
+<pin name="VOUT" x="27.94" y="0" length="middle" direction="pwr" rot="R180"/>
+<pin name="SENSE" x="27.94" y="-10.16" length="middle" direction="in" rot="R180"/>
+<pin name="BYP" x="27.94" y="-20.32" length="middle" direction="in" rot="R180"/>
+<pin name="GND" x="0" y="-33.02" length="middle" direction="pwr" rot="R90"/>
 </symbol>
 </symbols>
 <devicesets>
