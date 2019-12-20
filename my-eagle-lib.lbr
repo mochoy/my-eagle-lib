@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
+<grid distance="5" unitdist="mil" unit="mil" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="yes" active="yes"/>
@@ -793,6 +793,7 @@ Source: http://www.cypress.com .. 38-12025_0P_V.pdf</description>
 <text x="3.81" y="0" size="0.6096" layer="27" font="vector" ratio="20" rot="R90" align="bottom-center">&gt;VALUE</text>
 <rectangle x1="-2.159" y1="2.286" x2="-1.651" y2="3.302" layer="51"/>
 <circle x="-3.01625" y="-2.38125" radius="0.254" width="0.2032" layer="21"/>
+<smd name="BODY" x="0" y="0" dx="2.9972" dy="2.6416" layer="1"/>
 </package>
 </packages>
 <symbols>
