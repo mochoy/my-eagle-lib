@@ -1036,6 +1036,13 @@ FLOW
 CONTROL</text>
 </symbol>
 <symbol name="SPX1117M3-L-5-0/TR">
+<wire x1="-22.86" y1="10.16" x2="27.94" y2="10.16" width="0.254" layer="94"/>
+<wire x1="27.94" y1="10.16" x2="27.94" y2="-17.78" width="0.254" layer="94"/>
+<wire x1="27.94" y1="-17.78" x2="-22.86" y2="-17.78" width="0.254" layer="94"/>
+<wire x1="-22.86" y1="-17.78" x2="-22.86" y2="10.16" width="0.254" layer="94"/>
+<text x="2.54" y="5.08" size="1.778" layer="95" align="bottom-center">&gt;NAME</text>
+<text x="2.54" y="2.54" size="1.778" layer="97" align="bottom-center">SPX1117M3-L-5-0/TR</text>
+<text x="2.54" y="0" size="1.778" layer="96" align="bottom-center">&gt;VALUE</text>
 </symbol>
 </symbols>
 <devicesets>
