@@ -1596,6 +1596,15 @@ existing UART devices to USB interface. &lt;/p&gt;
 </devices>
 </deviceset>
 <deviceset name="IFX1763XEJV50">
+<description>&lt;h1&gt;IFX1763XEJV50&lt;/h1&gt;
+
+&lt;p&gt;The IFX1763 V50 is a micropower, low noise, low dropout 5 V voltage regulator. The device is capable of
+supplying an output current of 500 mA with a dropout voltage of 350 mV. Designed for use in battery-powered
+systems, the low quiescent current of 30 µA makes it an ideal choice.&lt;/p&gt;
+
+&lt;p&gt;This is the SOIC-8 with body pad (PG-DSO-8 Exposed Pad) package variant&lt;/p&gt;
+
+Datasheet: &lt;a href="https://www.infineon.com/dgdl/Infineon-IFX1763_V50-DS-v01_11-EN.pdf?fileId=5546d4624bbf60fb014bcaa8e8c04f28"&gt;https://www.infineon.com/dgdl/Infineon-IFX1763_V50-DS-v01_11-EN.pdf?fileId=5546d4624bbf60fb014bcaa8e8c04f28&lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="IFX1763V50" x="0" y="10.16"/>
 </gates>
