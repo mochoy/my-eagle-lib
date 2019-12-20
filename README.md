@@ -85,6 +85,8 @@ I'll hopefully keep this updated
 
 - SOT23-6 package from [here](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
 
+- SOT223-3 package from [here](https://github.com/shimniok/eagle-library)
+
 
 ### List of Packages Different from List of Components
 
