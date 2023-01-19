@@ -1191,9 +1191,9 @@ CONTROL</text>
 <text x="0" y="17.78" size="1.778" layer="95" align="bottom-center">&gt;NAME</text>
 <text x="0" y="15.24" size="1.778" layer="94" align="bottom-center">TPS54302</text>
 <text x="0" y="12.7" size="1.778" layer="96" align="bottom-center">&gt;VALUE</text>
-<pin name="SW" x="17.78" y="0" length="middle" rot="R180"/>
+<pin name="SW" x="17.78" y="7.62" length="middle" rot="R180"/>
 <pin name="FB" x="17.78" y="-7.62" length="middle" rot="R180"/>
-<pin name="BOOT" x="17.78" y="7.62" length="middle" rot="R180"/>
+<pin name="BOOT" x="17.78" y="0" length="middle" rot="R180"/>
 <pin name="VIN" x="-17.78" y="7.62" length="middle"/>
 <pin name="EN" x="-17.78" y="-7.62" length="middle"/>
 <pin name="GND" x="0" y="-22.86" length="middle" rot="R90"/>
