@@ -857,9 +857,9 @@ Source: http://www.cypress.com .. 38-12025_0P_V.pdf</description>
 </package>
 <package name="BANANA-JACK-VERT">
 <circle x="7" y="0" radius="2.54" width="0.127" layer="21"/>
-<pad name="P$1" x="7" y="0" drill="1.524"/>
+<pad name="P$2" x="7" y="0" drill="1.524"/>
 <circle x="-7" y="0" radius="2.54" width="0.127" layer="21"/>
-<pad name="P$2" x="-7" y="0" drill="1.524"/>
+<pad name="P$1" x="-7" y="0" drill="1.524"/>
 <text x="-10" y="3.302" size="1.27" layer="25">&gt;NAME</text>
 <text x="-9.952" y="-3.286" size="1.27" layer="27" align="top-left">&gt;VALUE</text>
 <wire x1="-10" y1="3" x2="-10" y2="-3" width="0.127" layer="21"/>
