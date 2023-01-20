@@ -1823,13 +1823,12 @@ Found on
 
 &lt;p&gt;&lt;a href="https://www.belfuse.com/resources/productinformations/cinchconnectivitysolutions/johnson/pi-ccs-john-105-0753-001.pdf"&gt;Datasheet for black jack (105-0753-001)&lt;/a&gt;&lt;/p&gt;</description>
 <gates>
-<gate name="G$1" symbol="CONN_02" x="0" y="0"/>
+<gate name="G$1" symbol="CONN_01" x="0" y="0"/>
 </gates>
 <devices>
 <device name="" package="BANANA-PLUG-HORIZ-105-075X">
 <connects>
-<connect gate="G$1" pin="1" pad="P$1"/>
-<connect gate="G$1" pin="2" pad="P$2"/>
+<connect gate="G$1" pin="1" pad="P$1 P$2"/>
 </connects>
 <technologies>
 <technology name=""/>
