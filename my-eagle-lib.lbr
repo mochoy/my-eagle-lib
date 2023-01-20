@@ -837,7 +837,7 @@ Source: http://www.cypress.com .. 38-12025_0P_V.pdf</description>
 <wire x1="-5" y1="-2.5" x2="-2.5" y2="-5" width="0.127" layer="21"/>
 <text x="0" y="-7.5" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
 </package>
-<package name="BANANA-PLUG-HORIZ-105-0752-001">
+<package name="BANANA-PLUG-HORIZ-105-075X">
 <wire x1="-2" y1="5.5" x2="2" y2="5.5" width="0.127" layer="21"/>
 <wire x1="-2" y1="5.5" x2="-2" y2="-5.5" width="0.127" layer="21"/>
 <wire x1="-2" y1="-5.5" x2="2" y2="-5.5" width="0.127" layer="21"/>
